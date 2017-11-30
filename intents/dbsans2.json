@@ -1,0 +1,148 @@
+{
+  "id": "72e3b047-3bbe-4bf4-93a5-7ed3c7f4b72a",
+  "name": "dbsans2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "dbsans2"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431353735,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "ff4b25d5-f8a4-413c-b463-cf6daefb3e70",
+      "data": [
+        {
+          "text": "structured query language",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4f383c9f-4fcd-46fa-b7a6-45f04b487d56",
+      "data": [
+        {
+          "text": "stands for Structured Query Language",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "baa09f6a-67e3-450d-b1b2-32802ad9390e",
+      "data": [
+        {
+          "text": "query language for relational database systems",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510419911,
+      "isAuto": false
+    },
+    {
+      "id": "8a54a370-b620-4f7a-82aa-dc04e1060601",
+      "data": [
+        {
+          "text": "it is a combination of DDL,DML,VDL",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510419911,
+      "isAuto": false
+    },
+    {
+      "id": "c9668fb9-0189-4a76-b23c-1bb9c1a19fb6",
+      "data": [
+        {
+          "text": "SQL is the standard language for Relational Database System.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510419911,
+      "isAuto": false
+    },
+    {
+      "id": "245504be-8bf8-4271-82f5-0c99545bdd01",
+      "data": [
+        {
+          "text": "computer language for storing, manipulating and retrieving data stored in a relational database",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510419911,
+      "isAuto": false
+    },
+    {
+      "id": "9312a4fe-85e2-4cbf-83cb-f79a92e090c8",
+      "data": [
+        {
+          "text": "language used for managing data held in a relational database management system",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510419911,
+      "isAuto": false
+    },
+    {
+      "id": "b69ea33c-6542-47d7-86ee-3999db8927ac",
+      "data": [
+        {
+          "text": "SQL (Structured Query Language) is a standardized programming language used for managing relational databases and performing various operations on the data in them",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510419911,
+      "isAuto": false
+    },
+    {
+      "id": "e2a45818-e554-4a90-9f81-01d24e8c040b",
+      "data": [
+        {
+          "text": "It is structured query language",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510419911,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

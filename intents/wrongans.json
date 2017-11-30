@@ -1,0 +1,2987 @@
+{
+  "id": "c6262ddc-f454-46c6-842f-6e61a08080c6",
+  "name": "wrongans",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "wrongans"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510425297350,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "421568d1-712b-446b-ac3e-0b610428f262",
+      "data": [
+        {
+          "text": "uniquely identifies sugar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2d6f9caa-e119-4ca0-9de5-a704d1d29f63",
+      "data": [
+        {
+          "text": "normalization"
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "efd836f6-de92-416a-9048-36a33e42f56e",
+      "data": [
+        {
+          "text": "normalisation"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "63deaf8d-dcd3-44b3-b837-429c0e235d0a",
+      "data": [
+        {
+          "text": "foreign key"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5138f656-0e3c-46f4-a96d-2f45c4efd44d",
+      "data": [
+        {
+          "text": "virtual memory"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "cd02e752-9355-4fe8-b59a-7dc57497cab2",
+      "data": [
+        {
+          "text": "virtual address"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "39a41988-a31b-48a2-87ce-ca88f64f7f9c",
+      "data": [
+        {
+          "text": "stuff"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2decf750-b85b-4b2a-8640-9e3b38d7c0be",
+      "data": [
+        {
+          "text": "context switch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "588de3f8-78cb-4df4-b702-045295780edd",
+      "data": [
+        {
+          "text": "\"When everything was going good and you asked people they ever watched the show 100 million people said yes , now if you ask them 4 people will say yes and the other 99 + million will call those 4 rednecks .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e24cb4ed-633f-4c23-94af-0d9736f01675",
+      "data": [
+        {
+          "text": "\"There\"There is so many ideas out there , , it seems people in "
+        },
+        {
+          "text": "washington",
+          "alias": "geo-city",
+          "meta": "@sys.geo-city",
+          "userDefined": false
+        },
+        {
+          "text": " think of this as you lose , I win .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2d59ea83-7a91-472f-aa59-d269b9140da4",
+      "data": [
+        {
+          "text": "\"Technically\"Technically , he conquered the piano part 's daunting .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3c9db628-bcf1-4f69-b924-b672990781ae",
+      "data": [
+        {
+          "text": "We just don 't get it do we ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3f9c5b17-f830-4f3f-8aba-6e777422fef2",
+      "data": [
+        {
+          "text": "\"If\"If this person has already been asked never to speak to you again and 're still not \"\" getting it , \"\" they probably never will .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "743dfb86-7b29-4c35-b60a-92599262ed48",
+      "data": [
+        {
+          "text": "But he was not on the ice with Drury or ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9925a321-f7c9-4d9c-affd-531099411fe1",
+      "data": [
+        {
+          "text": "Seems to me the Mexicans do more to support the economy than americans do ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "852d9c9b-4f6c-483d-8179-6303566a2815",
+      "data": [
+        {
+          "text": "I 'm happy that at least this poor "
+        },
+        {
+          "text": "couple",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " finally saw a little justice in the short time to them ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0f5bbdd5-ccfa-4d07-ab04-ae0f10b9af7a",
+      "data": [
+        {
+          "text": "\"The "
+        },
+        {
+          "text": "12.5 percent",
+          "alias": "percentage",
+          "meta": "@sys.percentage",
+          "userDefined": false
+        },
+        {
+          "text": " corporate tax rate in "
+        },
+        {
+          "text": "Ireland",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " has made it an attractive hub for U.S. businesses , and "
+        },
+        {
+          "text": "Dublin",
+          "alias": "geo-city",
+          "meta": "@sys.geo-city",
+          "userDefined": false
+        },
+        {
+          "text": " is particularly keen to lure more companies .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "13272373-88c5-4132-b34a-94e776496a2c",
+      "data": [
+        {
+          "text": "\"British\"British Foreign "
+        },
+        {
+          "text": "David",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " Miliband unveiled an interactive map "
+        },
+        {
+          "text": "Thursday",
+          "alias": "date",
+          "meta": "@sys.date",
+          "userDefined": false
+        },
+        {
+          "text": " demonstrating the impact of global warming "
+        },
+        {
+          "text": "in decades",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " to come , to underline the looming threat .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d0467c01-a73e-4200-9409-63c67627c7b1",
+      "data": [
+        {
+          "text": "Time to man up ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2628107c-b6ce-402d-8690-b1ebbf05b6e0",
+      "data": [
+        {
+          "text": "\"Everyday , I try to more stuff out or give away .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f10e9d6e-882b-40fe-a7e3-d98523ba0567",
+      "data": [
+        {
+          "text": "\"The\"The government , which announced its carbon strategy last , set targets for all new homes to be "
+        },
+        {
+          "text": "zero",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": "-emission by "
+        },
+        {
+          "text": "2016",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " , with domestic energy efficiency to be improved by 25 per cent as soon as "
+        },
+        {
+          "text": "next year",
+          "alias": "date-period1",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f251813d-698f-49e9-8b67-5f36befc096a",
+      "data": [
+        {
+          "text": "\"An\"An important question is whether , when "
+        },
+        {
+          "text": "England",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " 's's players pull on their snazzy new "
+        },
+        {
+          "text": "red",
+          "alias": "color",
+          "meta": "@sys.color",
+          "userDefined": false
+        },
+        {
+          "text": " Twenty20 kit this evening , motivation on the field will now be affected .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a81773f6-0b88-4780-b58b-05a61627cb63",
+      "data": [
+        {
+          "text": "\"We\"We didn 't know the , \"\" recalled the peer .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a1f34cde-5b9d-4a88-a644-b1210024d81d",
+      "data": [
+        {
+          "text": "Judge "
+        },
+        {
+          "text": "Stephen",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " Wildblood QC ordered reports to be carried out ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "afbd5301-9bf3-4678-a197-a793669fc27f",
+      "data": [
+        {
+          "text": "Fannie Mae Freddie Mac have been hit hard by the mortgage foreclosure crisis ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "cdddddff-3361-4cc6-b3eb-271dcd3947bd",
+      "data": [
+        {
+          "text": "The incident was causing "
+        },
+        {
+          "text": "major",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " traffic queues in area "
+        },
+        {
+          "text": "on Thursday",
+          "alias": "date",
+          "meta": "@sys.date",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "time-period",
+          "meta": "@sys.time-period",
+          "userDefined": false
+        },
+        {
+          "text": " ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9d305778-ae50-44d5-84e1-cd3b99c53bf9",
+      "data": [
+        {
+          "text": "\"To\"To finish the film , she , \"\" they took Harlow 's double and reshot a "
+        },
+        {
+          "text": "couple",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " of scenes . \"\"\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d4c169fd-c8a4-4401-8a15-6a31e7c72dda",
+      "data": [
+        {
+          "text": "Macmillan says will lower e-book payments to authors ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ea3506c2-56ca-46db-abe5-6d9dd2cc8bdf",
+      "data": [
+        {
+          "text": "You may have either go along or step aside ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c3dd5a06-a11e-41a7-a941-033477a16a5d",
+      "data": [
+        {
+          "text": "They blame a protein - pigment epithelium-derived factor ( PEDF ) - which is secreted by fat cells ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "afee36f6-8157-440e-bcc1-1eaf18375b58",
+      "data": [
+        {
+          "text": "\"\"\" We 'll take a look at some things , but we 've got have a better effort , \"\" "
+        },
+        {
+          "text": "Dallas",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " coach "
+        },
+        {
+          "text": "Avery",
+          "alias": "given-name1",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Johnson",
+          "alias": "last-name",
+          "meta": "@sys.last-name",
+          "userDefined": false
+        },
+        {
+          "text": " said .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "42a0c00d-a7a5-4dbb-9926-495540b95c42",
+      "data": [
+        {
+          "text": "Fares start at about "
+        },
+        {
+          "text": "$ 299",
+          "alias": "unit-currency",
+          "meta": "@sys.unit-currency",
+          "userDefined": false
+        },
+        {
+          "text": " travel "
+        },
+        {
+          "text": "in April",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b7edc866-8a84-4def-9dd4-5994619dab1d",
+      "data": [
+        {
+          "text": "\"Doctors in the 17th Century were worried about the dangers of young people smoking , recently unearthed letter has revealed .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4465d738-910d-4793-b278-1b3202122639",
+      "data": [
+        {
+          "text": "\"Some\"Some of these indicators form part of the U.N. ' s so-called ' Millennium Development Goals , ' which the global hopes to achieve by "
+        },
+        {
+          "text": "2015",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "97e92402-76a9-4c93-90de-628ebe08c1b7",
+      "data": [
+        {
+          "text": "\"\"\" We 've been spending more slowly than we contemplated when we put budget together , \"\" explained Secretary of Transportation "
+        },
+        {
+          "text": "Mary",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Peters",
+          "alias": "last-name",
+          "meta": "@sys.last-name",
+          "userDefined": false
+        },
+        {
+          "text": " .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8040a935-30a7-452d-92dc-d9965bc005fa",
+      "data": [
+        {
+          "text": "\"GAZA\"GAZA CITY , Gaza Strip ( AP ) - Hamas forces open at rival Fatah group 's mass rally commemorating late Palestinian leader Yasser Arafat .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "865372eb-ab40-45bf-a775-72b1891125f0",
+      "data": [
+        {
+          "text": "\"Simmons , "
+        },
+        {
+          "text": "44",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " , joined Gap "
+        },
+        {
+          "text": "in 2001",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " as president and treasurer .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "74377d65-88af-4430-8f22-a5962eb78657",
+      "data": [
+        {
+          "text": "It is a felony extort money ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "dab61ebb-5580-4dad-81e0-a86e49b763b5",
+      "data": [
+        {
+          "text": "\"\"\" We have been studying the brain in this way for nearly "
+        },
+        {
+          "text": "two years",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " but are now also looking at problems such as intrauterine growth restriction which has a pretty high morbidity .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7cbc2a78-220e-46c8-bb13-d2abae64388f",
+      "data": [
+        {
+          "text": "Past research had suggested that information about the local dating pool can influence "
+        },
+        {
+          "text": "one",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " 's's behavior -- to attractive members of one 's own sex can reduce one 's feelings about one 's own attractiveness ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0f50ee0c-ebc0-4ce9-b919-ef95a1edb655",
+      "data": [
+        {
+          "text": "\"Once\"Once the came to light , Moustafa gave up the chairmanship of the Talaat Moustafa Group to his brother Tarek .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "fdf9f648-fb0b-43ff-bca8-2504518afc4b",
+      "data": [
+        {
+          "text": "Its "
+        },
+        {
+          "text": "second",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "weekend",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " takings of $ 13m ( "
+        },
+        {
+          "text": "£ 7.7",
+          "alias": "unit-currency",
+          "meta": "@sys.unit-currency",
+          "userDefined": false
+        },
+        {
+          "text": "m ) put it ahead of new release Aliens in the ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "59b01333-32af-4cf8-b3bf-8130e4701756",
+      "data": [
+        {
+          "text": "He suffered severe to his right arm -- he plays right-handed ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1740aa18-deb1-45b5-91ff-a8ac054f29aa",
+      "data": [
+        {
+          "text": "\"A\"A consultation has started by Wrexham Council to consider merging Ysgol Cynddelw and Ysgol Llanarmon DC , and close Ysgol Pontfadog .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0d428d94-83cb-42b2-8e32-45a1f036b805",
+      "data": [
+        {
+          "text": "\"As\"As successful illustrator and head of the Dr Sketchy 's empire , Crabapple , also a former model and burlesque performer , is a free spirit who makes a living .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0aab9d85-a488-49c6-832d-4fd702edf470",
+      "data": [
+        {
+          "text": "Sivananda Yoga in "
+        },
+        {
+          "text": "Colony",
+          "alias": "geo-city",
+          "meta": "@sys.geo-city",
+          "userDefined": false
+        },
+        {
+          "text": " offers a free trial-class "
+        },
+        {
+          "text": "on Sunday",
+          "alias": "date",
+          "meta": "@sys.date",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "afternoons",
+          "alias": "time-period",
+          "meta": "@sys.time-period",
+          "userDefined": false
+        },
+        {
+          "text": " ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8267d3a9-56ce-4f92-b371-b55289331a3d",
+      "data": [
+        {
+          "text": "The candidate that wins will able to act based on their mandate ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5282ba73-a337-4113-9747-1742470104b0",
+      "data": [
+        {
+          "text": "\"But\"But American prison are much longer , so the total incarceration rate is higher .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "80db0c2b-c2f9-4eab-b3b0-841fdfccde65",
+      "data": [
+        {
+          "text": "Greenland was "
+        },
+        {
+          "text": "green",
+          "alias": "color",
+          "meta": "@sys.color",
+          "userDefined": false
+        },
+        {
+          "text": " - surprisingly - and they grew there and wine was grown all over Northern "
+        },
+        {
+          "text": "England",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3e4806f7-13ca-4628-b33e-ff9ed5c8ad47",
+      "data": [
+        {
+          "text": "\"The\"The English crown passes in the male line , so long as there is a direct male .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "bbf939df-0645-4ea1-888a-a39f36278d24",
+      "data": [
+        {
+          "text": "\"I\"I think the new policy the "
+        },
+        {
+          "text": "United States",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " Golf Association has introduced of playing the top "
+        },
+        {
+          "text": "12",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " players in the world in multiples of "
+        },
+        {
+          "text": "three in",
+          "alias": "unit-length",
+          "meta": "@sys.unit-length",
+          "userDefined": false
+        },
+        {
+          "text": " ranking , instead of doing a draw , is great .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8823670c-f737-4403-8243-f1c419dc1522",
+      "data": [
+        {
+          "text": "The border was closed after Armenian forces control of the Azerbaijani region of Nagorno-Karabakh ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "01ab6ed1-9154-44b8-a0d2-515c3900371e",
+      "data": [
+        {
+          "text": "\"He\"He said that even with advanced technology , coal a highly-polluting fossil fuel -- would continue to be cheaper to buy than cleaner , renewable energy .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "77da6664-0a15-4fe9-a709-3bb60929d8e5",
+      "data": [
+        {
+          "text": "\"These\"These turned out to be popular qualities , as the remained in production for "
+        },
+        {
+          "text": "15 years",
+          "alias": "duration",
+          "meta": "@sys.duration",
+          "userDefined": false
+        },
+        {
+          "text": " with a variety of engines .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "59a318bd-3a37-40c8-bb25-eadb9b1e04a0",
+      "data": [
+        {
+          "text": "\""
+        },
+        {
+          "text": "Jackson",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " , however , did not say who or how son may have been killed .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "71876bc4-7e84-42e7-9cd2-0404c58400d9",
+      "data": [
+        {
+          "text": "\""
+        },
+        {
+          "text": "Two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " men arrested at the Cyber Café in "
+        },
+        {
+          "text": "Cheetham Hill Road , Manchester",
+          "alias": "address",
+          "meta": "@sys.address",
+          "userDefined": false
+        },
+        {
+          "text": " , are thought to be of lesser interest .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "faf2dcfc-251e-42e6-be99-c0d696e01aea",
+      "data": [
+        {
+          "text": "\"( AP ) - "
+        },
+        {
+          "text": "All week",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " , the chatter along the Churchill Downs backstretch has been about Big "
+        },
+        {
+          "text": "Brown",
+          "alias": "color",
+          "meta": "@sys.color",
+          "userDefined": false
+        },
+        {
+          "text": " away with the "
+        },
+        {
+          "text": "Kentucky",
+          "alias": "geo-state-us",
+          "meta": "@sys.geo-state-us",
+          "userDefined": false
+        },
+        {
+          "text": " Derby .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e5286d77-d92c-4ea7-af92-ab696580177e",
+      "data": [
+        {
+          "text": "Mr Enthoven argues that the consolidation that followed managed care has resulted in little competition ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "61fbac65-5328-42c9-9248-f3757ee7e824",
+      "data": [
+        {
+          "text": "\"Medelci\"Medelci warned that Mediterranean Union countries that do not have relations with \"\" must not be forced to be part of joint projects \"\" with "
+        },
+        {
+          "text": "Israel",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " inside the Union .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c92c3418-702a-4b2e-8c41-c11a830f6765",
+      "data": [
+        {
+          "text": "Seagulls keen ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "fa26304c-ef55-4d98-a54d-c2f9c24a8c3f",
+      "data": [
+        {
+          "text": "It was published on "
+        },
+        {
+          "text": "guardian.co.uk",
+          "alias": "url",
+          "meta": "@sys.url",
+          "userDefined": false
+        },
+        {
+          "text": " at BST "
+        },
+        {
+          "text": "on Thursday 28 October 2010",
+          "alias": "date",
+          "meta": "@sys.date",
+          "userDefined": false
+        },
+        {
+          "text": " ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2fa50076-e1e9-4381-803a-8258d7093fe2",
+      "data": [
+        {
+          "text": "\"\"\" Since day one of the kidnap , consular officials have in regular contact with the families of the men , \"\" it said .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "bd19ff3a-dcd7-4640-ade9-a44c41079323",
+      "data": [
+        {
+          "text": "The average selling price "
+        },
+        {
+          "text": "$ 2.43",
+          "alias": "unit-currency",
+          "meta": "@sys.unit-currency",
+          "userDefined": false
+        },
+        {
+          "text": " per share ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4d525c72-d30b-4351-9d93-93ff69505886",
+      "data": [
+        {
+          "text": "Then there will be a plenary session lasting up "
+        },
+        {
+          "text": "three hours",
+          "alias": "time",
+          "meta": "@sys.time",
+          "userDefined": false
+        },
+        {
+          "text": " ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2512aeb6-4c07-4748-aba7-03d6fb163f1e",
+      "data": [
+        {
+          "text": "Without stripping citizens of their rights of ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "12463ddd-d9ea-454c-8e2b-ebc19abd3ede",
+      "data": [
+        {
+          "text": "\""
+        },
+        {
+          "text": "Japan 's",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " Asahi newspaper reported that \"\" numerous \"\" Koreans caught watching copies of the film smuggled over the border from "
+        },
+        {
+          "text": "China",
+          "alias": "geo-country1",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " have been arrested .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "580ef849-2edc-4411-ba28-0e3e5a5df16f",
+      "data": [
+        {
+          "text": "\"The\"The Pirates came out of the timeout and blocked "
+        },
+        {
+          "text": "one",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " shot , then forced a turnover , proving they could their best defense against a Top "
+        },
+        {
+          "text": "25",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " team , too .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0c7f29ba-2b2e-4e6c-a5a6-1595a5e8b747",
+      "data": [
+        {
+          "text": "\""
+        },
+        {
+          "text": "David",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " Attenborough The world 's population has grown "
+        },
+        {
+          "text": "three",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " times bigger since I started making television programmes , and the notion that you could have that vast increase in one without having some kind of deleterious effect is obvious nonsense .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5990fa04-fb8d-492b-bb9f-541b3dfa302b",
+      "data": [
+        {
+          "text": "Detectives want to from anyone who saw the robbery or the Mazda being driven in the Lowdham or "
+        },
+        {
+          "text": "Arnold",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " areas ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7d71cbae-66ba-4392-bee0-6755183212d6",
+      "data": [
+        {
+          "text": "VO "
+        },
+        {
+          "text": "2",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " : 's's been mocked as a Mama 's Boy ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "141e2230-9ce6-4640-a83b-f55c8095eee5",
+      "data": [
+        {
+          "text": "\"The\"The president declared that the civil war will be ended by his soldiers amid mounting fears for the fate of "
+        },
+        {
+          "text": "tens",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "thousands",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " of civilians cornered , with rebels , in a tiny strip of land .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ddbda9fa-7d05-4620-b865-24ccd81787de",
+      "data": [
+        {
+          "text": "\"That style of play isn 't exactly pretty , and it often costs the Spartans style points in the polls during regular season .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "afc70229-7f4c-43bd-a9a4-569e4ebc7ec5",
+      "data": [
+        {
+          "text": "\"Now\"Now , it appears former executives of Bear Stearns are making the same claim -- and it 's every bit as bogus .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "879f2ff1-0e3d-4164-9838-18ab5a20ed0e",
+      "data": [
+        {
+          "text": "\"The "
+        },
+        {
+          "text": "United States",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " is helping Pakistan build new training facilities for the Frontier Corps a poorly equipped tribal force responsible for guarding the border , and is also supporting special forces elements of the Pakistani army , the report said .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7e09d2aa-4355-4b59-92c5-4dba87f440da",
+      "data": [
+        {
+          "text": "London",
+          "alias": "geo-city",
+          "meta": "@sys.geo-city",
+          "userDefined": false
+        },
+        {
+          "text": " Fashion Week felt the chill wind of the recession with designers forced into smaller venues ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "666a8943-efd4-417e-a1dc-c33315fba435",
+      "data": [
+        {
+          "text": "\""
+        },
+        {
+          "text": "During April",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " , the service received 1,238 calls , mainly relating litter and noise disruption .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "25c9a2dc-3e4d-48ca-8e12-f88d1534caac",
+      "data": [
+        {
+          "text": "\"The\"The FT , which did not identify sources , said it would be the "
+        },
+        {
+          "text": "first",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": " time a German industrial group has slashed permanent posts because of the recession .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "45660260-d58e-4a32-af35-b5e2740f99c3",
+      "data": [
+        {
+          "text": "The Jazz were once again anemic from three-point range going "
+        },
+        {
+          "text": "2",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": "-for-"
+        },
+        {
+          "text": "9",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6b114271-5be2-4104-a006-1f2b2aabc184",
+      "data": [
+        {
+          "text": "Amanda 's side of the was always a bit of a mess ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "de3b79d4-255e-4436-b7f6-13113647ce4b",
+      "data": [
+        {
+          "text": "\"If\"If virtually no American forces had died in "
+        },
+        {
+          "text": "Vietnam",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " , would the war have stopped when it did -- or would systematic slaughter of the Vietnamese people have continued for many more years ?\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "cd20855d-4f6d-43c7-aac1-a669f570e33b",
+      "data": [
+        {
+          "text": "\"Since\"Since the initial Fannie-Freddie program was announced "
+        },
+        {
+          "text": "last year",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " , mortgage rates have fallen .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "244a71ff-0df2-485d-b116-413a4661ef09",
+      "data": [
+        {
+          "text": "\"The "
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " players have talked , in a meeting brokered by coach "
+        },
+        {
+          "text": "Bruce",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " Arena , Beckham is still annoyed .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a59f8652-934e-4a51-b16e-273ff89516ea",
+      "data": [
+        {
+          "text": "\"As\"As part of a strategy to ramp up its sales in the developing world , "
+        },
+        {
+          "text": "Philip",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Morris",
+          "alias": "last-name",
+          "meta": "@sys.last-name",
+          "userDefined": false
+        },
+        {
+          "text": " International is being spun off from the Altria Group so that it can escape the threat of litigation and government regulation in "
+        },
+        {
+          "text": "United States",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ad2b9bf2-301e-4921-adfa-3b3cdb080781",
+      "data": [
+        {
+          "text": "\"Mr\"Mr. O '"
+        },
+        {
+          "text": "Kelly 's",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " drama , where the playwright and Sorcha Fox nimbly play over a roles , mostly takes place on a ship heading to Europe .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e07fbbe2-31b7-4272-975d-e3fe45673240",
+      "data": [
+        {
+          "text": "\"A\"A\"A follow to "
+        },
+        {
+          "text": "2007 's",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " Transformers and new film Transformers : Revenge Of The Fallen hasn 't been confirmed , but if there is a "
+        },
+        {
+          "text": "third",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " flick , the actor revealed it 's likely to raise the stakes .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e5a432b5-ce08-4fcc-b249-25cd3876b512",
+      "data": [
+        {
+          "text": "Jackson",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " has "
+        },
+        {
+          "text": "nine",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " rings ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f32e2133-056c-4ebd-ab12-2a4c4fcee310",
+      "data": [
+        {
+          "text": "\"Mr "
+        },
+        {
+          "text": "Ross",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " , of Aberdeen , denies driving dangerously on a stretch of near Tipperty , by Ellon , "
+        },
+        {
+          "text": "in October last year",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8e38bca8-62c4-4352-a639-88c13c49ec04",
+      "data": [
+        {
+          "text": "He that because Haiti was settled by African slaves they are owed a right of return ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "50383917-7e7a-4a63-9303-ff9493eb798a",
+      "data": [
+        {
+          "text": "\"FARC\"FARC , which has been designated a terrorist organization by the U.S. government , accounts for "
+        },
+        {
+          "text": "60 percent",
+          "alias": "percentage",
+          "meta": "@sys.percentage",
+          "userDefined": false
+        },
+        {
+          "text": " of the total cocaine exported from Colombia to the "
+        },
+        {
+          "text": "United States",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " the report said .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b587dca4-8631-4601-8dd6-35e7c4a4a394",
+      "data": [
+        {
+          "text": "\"The\"The IG concluded that contrary to the statements in the letters , many of the investigations for which letters were used did not meet legal standards .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "61f35b82-c8f9-4cba-a98d-28f191c7045a",
+      "data": [
+        {
+          "text": "The lines were much shorter Monday as paying customers ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "52f7b293-42b4-43b1-8b93-6a5281e00a4c",
+      "data": [
+        {
+          "text": "\"\"\" When you are giving someone the death penalty , which they essentially , you cannot tolerate shoddy work , which they clearly did , \"\" Armstrong said .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "322aa7d3-feda-4762-b839-395f7c64fca7",
+      "data": [
+        {
+          "text": "A man was arrested shortly after the incident is being questioned by police ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3ee7cf21-5add-4d7f-b725-4a7a6213dc6f",
+      "data": [
+        {
+          "text": "The local authority said the woodland burial site would not look like a traditional neat and regimented cemetery but would become natural woodland to with the surrounding countryside ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0eab1435-89e7-490d-b026-2b7eadfde4ed",
+      "data": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "45",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": "-year-old man has died after his "
+        },
+        {
+          "text": "van",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " left the road and hit an embankment on a major road into Newcastle ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4db2359a-7fe1-4b29-845c-c238d43cfcbf",
+      "data": [
+        {
+          "text": "\"Successive\"Successive video-game trade shows and internet trailers have whetted already ravenous appetites with promises of "
+        },
+        {
+          "text": "1,000",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " cars and "
+        },
+        {
+          "text": "20",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " tracks , all rendered in glorious definition and unprecedented realism .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e70e1125-75eb-46b1-8292-c61edc6bfcca",
+      "data": [
+        {
+          "text": "All of the rape trial was banned until the jury reached its verdict ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a1d3376b-13e2-48d5-98cc-1e36c8ec9835",
+      "data": [
+        {
+          "text": "It 's interesting that the study also suggests we aren 't always aware of these beliefs -- even we end up paying for them ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7d914e83-0382-4428-8c1a-448a249efdf7",
+      "data": [
+        {
+          "text": "\"But\"But young people die all the time , all over the world , and outpouring of public grief at the funeral of Jade Goody "
+        },
+        {
+          "text": "yesterday",
+          "alias": "date",
+          "meta": "@sys.date",
+          "userDefined": false
+        },
+        {
+          "text": " sent a shiver down the spine .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a6b9a715-ef61-46c2-a79a-b5b05461dfec",
+      "data": [
+        {
+          "text": "\"That\"That is the case in "
+        },
+        {
+          "text": "England",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " , "
+        },
+        {
+          "text": "Wales",
+          "alias": "geo-city",
+          "meta": "@sys.geo-city",
+          "userDefined": false
+        },
+        {
+          "text": " Northern Ireland .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d7564c4e-fcd8-499d-b2a2-89fbb57f0f06",
+      "data": [
+        {
+          "text": "Actress Michelle Gayle and singer Heather "
+        },
+        {
+          "text": "Small",
+          "alias": "last-name",
+          "meta": "@sys.last-name",
+          "userDefined": false
+        },
+        {
+          "text": " are among the celebrities who have signed up to take part in a BBC dancing competition ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0942219f-36ef-4a3f-b402-04ceb66cc772",
+      "data": [
+        {
+          "text": "\"He\"He and his used a dosage identical to that recommended for cough syrups : half a teaspoon for two- to five-year-olds , a teaspoon for six- to eleven-year-olds , and "
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " teaspoons for children twelve and older .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d9c0b82e-0886-4613-b4a4-06dd46cca1d7",
+      "data": [
+        {
+          "text": "\"Police\"Police found the van locked and all the windows closed , the Canadian Broadcasting Corp. .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "bf9221a9-63c4-4e53-805d-a9a5eed77377",
+      "data": [
+        {
+          "text": "\"These\"These days , \"\" it 's just a market that up easier than it goes down , \"\" said "
+        },
+        {
+          "text": "Jim",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " Ritterbusch , president of energy consultancy Ritterbusch and Associates .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5fa29551-efe5-41af-9421-339d24c7365f",
+      "data": [
+        {
+          "text": "\"Major\"Major General "
+        },
+        {
+          "text": "Rick",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " Olson , the former operational commander for coalition forces in "
+        },
+        {
+          "text": "Afghanistan",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " , warned that just sending more troops would not bring stability a population far more rural and dispersed than Iraq 's .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f28c8964-534a-4503-bebc-eadcc658e011",
+      "data": [
+        {
+          "text": "\"A\"A spokeswoman for Cambridgeshire police defended the , saying officers were responding to \"\" genuine concerns . \"\"\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "aa93629b-1694-464f-9dfd-4ed6267a7977",
+      "data": [
+        {
+          "text": "Markets have been plunging amid about the ability of American authorities to prevent a recession ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7b008ffc-b0ca-4cc9-a6d0-b6f70fb9985d",
+      "data": [
+        {
+          "text": "\"Instead\"Instead , it says food price inflation is mainly due to higher fuel prices , poor weather and dwindling stockpiles of wheat and other crops .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c34c3cc7-ffba-4970-aa7e-b35c466158c3",
+      "data": [
+        {
+          "text": "\"Nearly "
+        },
+        {
+          "text": "five million",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " people were affected by three-month drought that hit in late "
+        },
+        {
+          "text": "July",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " in an area spanning Inner Mongolia in the north to Jilin province in the northeast , earlier state media reports said .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "24321a67-177e-4794-9fca-8ae3657cb78a",
+      "data": [
+        {
+          "text": "\"He\"He told the BBC he wanted the US to act simply as a \"\" role model . \"\"\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7b957439-2626-425e-9fad-1310827b4d82",
+      "data": [
+        {
+          "text": "NHS Eastern and Coastal Kent and the Protection Agency said any close contacts of the cases would be offered anti-viral treatment as a precaution ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "97e26c4e-a24a-4cc0-9a37-ff9573dc2e3a",
+      "data": [
+        {
+          "text": "A gauge inflation in the report showed a "
+        },
+        {
+          "text": "1.5 percent",
+          "alias": "percentage",
+          "meta": "@sys.percentage",
+          "userDefined": false
+        },
+        {
+          "text": " growth in prices compared with "
+        },
+        {
+          "text": "2008",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "057770ce-2473-4cfc-b67a-76c88797b67f",
+      "data": [
+        {
+          "text": "\"\"\" "
+        },
+        {
+          "text": "Last year",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " it was the "
+        },
+        {
+          "text": "first",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": " year we made it an island-based appeal , \"\" said .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e601000c-7962-4f49-b2df-3c1db335ccf7",
+      "data": [
+        {
+          "text": "Pavelski then put the Sharks up "
+        },
+        {
+          "text": "5",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": "-"
+        },
+        {
+          "text": "4",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " with : "
+        },
+        {
+          "text": "46",
+          "alias": "number2",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " left ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3de2eed8-a9fc-4023-a010-7bb587f9e867",
+      "data": [
+        {
+          "text": "\"Meanwhile\"Meanwhile , U.S. gaming companies have about "
+        },
+        {
+          "text": "$ 10.6 billion",
+          "alias": "unit-currency",
+          "meta": "@sys.unit-currency",
+          "userDefined": false
+        },
+        {
+          "text": " of loans maturing "
+        },
+        {
+          "text": "next year",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " , debt that will have to be repaid or refinanced at a time when banks are tightening and charging more to lend .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "99125529-5260-45aa-9941-17be618bf7e1",
+      "data": [
+        {
+          "text": "\"They\"They risk being robbed or kidnapped , but Sudan 's truckers still deliver food aid to "
+        },
+        {
+          "text": "thousands",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " displaced by conflict in Darfur , where is often overshadowed by the fighting between army and rebels .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "51fdbe1a-4b2b-4cc8-a7ff-4f030b35c722",
+      "data": [
+        {
+          "text": "Cook steals the strike with a single the final ball ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1747d833-9fc1-4a2b-b385-8b0fe1ad957e",
+      "data": [
+        {
+          "text": "\"He\"He was diagnosed with acute myeloid leukemia , an advanced cancer of the "
+        },
+        {
+          "text": "white",
+          "alias": "color",
+          "meta": "@sys.color",
+          "userDefined": false
+        },
+        {
+          "text": " blood .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6f92b33c-1bea-4929-9ce0-04fa38924b10",
+      "data": [
+        {
+          "text": "\""
+        },
+        {
+          "text": "Last week",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " , as protests continued over the election , "
+        },
+        {
+          "text": "Iran",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " expelled "
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " diplomats -- the embassy 's "
+        },
+        {
+          "text": "second and third",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": " secretaries .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c4055e9a-25a3-4bbd-ad86-27f1095be879",
+      "data": [
+        {
+          "text": "So does that opposition that Gordon "
+        },
+        {
+          "text": "Brown",
+          "alias": "last-name",
+          "meta": "@sys.last-name",
+          "userDefined": false
+        },
+        {
+          "text": " will back away from any more spending ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "993a9588-c255-4df6-adac-69a93d7856c8",
+      "data": [
+        {
+          "text": "\"That\"That would be followed in the next few days by face-to-face peace talks in the capital , Nairobi , with AU and EU participation .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b68e9c6a-8a4a-4106-b37c-0798b9699417",
+      "data": [
+        {
+          "text": "The bit-part players of showed what can be achieved with fierce determination and commitment as they moved to within one game of a World Cup semi-final against "
+        },
+        {
+          "text": "Australia",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "095fe45c-1715-450f-bdfc-52ccd3798c17",
+      "data": [
+        {
+          "text": "\"Founded "
+        },
+        {
+          "text": "in 1995",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " , L & L focus on the vast coal ( energy ) market in "
+        },
+        {
+          "text": "China",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " and operates profitable coal and coal consolidation facilities in resource-rich Yunnan Province .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "aad5150a-837b-454e-9333-c189ace67e73",
+      "data": [
+        {
+          "text": "\"We\"We will always remember the heroic efforts of our firefighters , police and responders , and those who sacrificed their own lives on Flight "
+        },
+        {
+          "text": "93",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " to protect their fellow Americans , \"\" Obama said in a statement .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c2950923-b46c-40c4-a2b2-cc488c203952",
+      "data": [
+        {
+          "text": "Prevention with over "
+        },
+        {
+          "text": "3.4 million",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " members. contests on "
+        },
+        {
+          "text": "Amuso.com",
+          "alias": "url",
+          "meta": "@sys.url",
+          "userDefined": false
+        },
+        {
+          "text": " and across the web. models to for worldwide recognition and over "
+        },
+        {
+          "text": "$ 500",
+          "alias": "unit-currency",
+          "meta": "@sys.unit-currency",
+          "userDefined": false
+        },
+        {
+          "text": " in cash prizes. global audiences voted on the winners ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "57b82154-2b4e-4200-8351-98ed298a65ad",
+      "data": [
+        {
+          "text": "\"Democrats\"Democrats are eyeing a huge economic stimulus measure , either in a post-election session "
+        },
+        {
+          "text": "next month",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " as the first item of business "
+        },
+        {
+          "text": "next year",
+          "alias": "date-period1",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "632acc9e-a1e8-42ca-8968-0711de5c9454",
+      "data": [
+        {
+          "text": "\"For "
+        },
+        {
+          "text": "one week",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " work , the rate is "
+        },
+        {
+          "text": "$ 2,634",
+          "alias": "unit-currency",
+          "meta": "@sys.unit-currency",
+          "userDefined": false
+        },
+        {
+          "text": " plus another "
+        },
+        {
+          "text": "$ 2,634",
+          "alias": "unit-currency1",
+          "meta": "@sys.unit-currency",
+          "userDefined": false
+        },
+        {
+          "text": " for the "
+        },
+        {
+          "text": "first",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": " rerun .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "206d6b82-bc72-4276-99b4-2972f48b0a6b",
+      "data": [
+        {
+          "text": "\"NBC\"NBC also has stumbled with plunging ratings in prime time , making it difficult for stations to attract viewers to their local news programs , which generate the bulk of a 's revenue .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a810bc8a-b0a8-409e-adcc-b0650bd91ebb",
+      "data": [
+        {
+          "text": "\""
+        },
+        {
+          "text": "The 19th",
+          "alias": "date",
+          "meta": "@sys.date",
+          "userDefined": false
+        },
+        {
+          "text": " building in Logie , near Montrose , was used as a school and a church but fell into disrepair .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "65fb56c4-4780-4039-bd3c-7f67b19175e9",
+      "data": [
+        {
+          "text": "Now a reversal is underway and demand is ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3dbe06d4-1444-4fb6-81dd-7b028e09dffe",
+      "data": [
+        {
+          "text": "\"In\"In the midst of an era characterized by racial tension and malaise over the Vietnam war , seemed to reaffirm the country 's potential to produce winners -- similar to a later U.S. victory over the Soviet "
+        },
+        {
+          "text": "Union",
+          "alias": "geo-city",
+          "meta": "@sys.geo-city",
+          "userDefined": false
+        },
+        {
+          "text": " in ice hockey .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a96b4927-7006-45e2-aad1-527ad3de9b5d",
+      "data": [
+        {
+          "text": "\"The\"The French navy has arrested "
+        },
+        {
+          "text": "nine",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " suspected pirates and handed them over to authorities in the breakaway Somali region of Puntland , French and regional officials said on .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "67135020-0cff-4473-939a-832c04626a90",
+      "data": [
+        {
+          "text": "For "
+        },
+        {
+          "text": "five days",
+          "alias": "duration",
+          "meta": "@sys.duration",
+          "userDefined": false
+        },
+        {
+          "text": " the pirates held Phillips in the lifeboat as U.S. Navy ships closed in lingered nearby ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "636c78da-9ea7-4148-8b84-488e269ac970",
+      "data": [
+        {
+          "text": "\"The\"The prince and his , the Duchess of Cornwall , arrived in "
+        },
+        {
+          "text": "Japan",
+          "alias": "geo-country",
+          "meta": "@sys.geo-country",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this week",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " for a short tour of "
+        },
+        {
+          "text": "Asia",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "97e2af86-4f9d-406a-af4a-8133c47275ab",
+      "data": [
+        {
+          "text": "\"He\"He acknowledged that much of the recognition for \"\" Oracular Spectacular had emerged from the dancefloor .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "cc38864c-7cca-4c17-a9fa-afab54d6b540",
+      "data": [
+        {
+          "text": "\""
+        },
+        {
+          "text": "One",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " man sports a "
+        },
+        {
+          "text": "bright purple",
+          "alias": "color",
+          "meta": "@sys.color",
+          "userDefined": false
+        },
+        {
+          "text": " , with a hat and roller skates to match .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "529278c6-6eff-4a8a-b48d-dc79f8a46730",
+      "data": [
+        {
+          "text": "It foreign and unusual ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a30487d1-5ce1-4b2d-9dff-209ad418f3cb",
+      "data": [
+        {
+          "text": "\"The\"The U.S. was caught off guard "
+        },
+        {
+          "text": "during the 2009",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " climate summit in Copenhagen when several African countries voted with and not the U.S. , the administration official said .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "51ca7a60-df4a-4be1-8ce5-e8ccf11eec12",
+      "data": [
+        {
+          "text": "\""
+        },
+        {
+          "text": "David",
+          "alias": "given-name",
+          "meta": "@sys.given-name",
+          "userDefined": false
+        },
+        {
+          "text": " Neeleman said that the airline , which is yet to be named , would with "
+        },
+        {
+          "text": "three",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " jets but expand to "
+        },
+        {
+          "text": "76",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " planes flying nationwide .\""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "bddff32e-9dfe-443e-a5a8-4ae823534d47",
+      "data": [
+        {
+          "text": "College students are looking for an mix when it comes to fashion "
+        },
+        {
+          "text": "this fall",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " ."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

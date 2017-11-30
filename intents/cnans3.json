@@ -1,0 +1,216 @@
+{
+  "id": "560a012a-18b6-4eb1-9061-8c60ada5d3de",
+  "name": "cnans3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "679a37cb-c6ec-4148-9085-4fa6301a093e",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "036aa2d0-048e-4b5f-8cfd-2c48c122a698",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "cnans3"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431353930,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "1e3d31da-e02c-45e7-8af3-74d6abf80022",
+      "data": [
+        {
+          "text": "Network computer devices that originate, route and terminate the data are called network nodes.Nodes can include hostssuch as personal computers, phones, servers as well as networking hardware.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425006,
+      "isAuto": false
+    },
+    {
+      "id": "a74d2706-a053-4fb5-9526-1d5f56ee8f5b",
+      "data": [
+        {
+          "text": "A computer network or data network is a digital telecommunications network which allows nodes to share resources.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425006,
+      "isAuto": false
+    },
+    {
+      "id": "1840fd96-0495-4c0c-a6ec-114d65e774a2",
+      "data": [
+        {
+          "text": "The purpose of a network is to enable the sharing of files and information between multiple systems.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510425006,
+      "isAuto": false
+    },
+    {
+      "id": "d459784d-01ae-4f08-b95e-386e6995c14b",
+      "data": [
+        {
+          "text": "When you have ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " or more computers connected to each other, you have a network.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425006,
+      "isAuto": false
+    },
+    {
+      "id": "9d688ef2-fd91-4b4c-9b16-ec4516faadbd",
+      "data": [
+        {
+          "text": "Networks can be private or public. Private networks require the user to obtain permission to gain access. Typically, this is ",
+          "userDefined": false
+        },
+        {
+          "text": "granted",
+          "alias": "geo-city",
+          "meta": "@sys.geo-city",
+          "userDefined": false
+        },
+        {
+          "text": " either manually by a network administrator or obtained directly by the user via a password or with other credentials. Public networks like the internet do not restrict access.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425006,
+      "isAuto": false
+    },
+    {
+      "id": "d6f1c89b-5c00-401e-9711-19e0b3cfdf5f",
+      "data": [
+        {
+          "text": "Network devices including switches and routersuse a variety of protocols and algorithms to exchange information and to transport data to its intended endpoint.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425006,
+      "isAuto": false
+    },
+    {
+      "id": "c83f0642-c199-45c3-9772-f40238fa0b06",
+      "data": [
+        {
+          "text": "In information technology, a computer network, also called a data network, is a series of points, or nodes, interconnected by communication paths for the purpose of transmitting, receiving and exchanging data, voice and video traffic.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425006,
+      "isAuto": false
+    },
+    {
+      "id": "84b6ca19-8d6f-4f55-b1f5-0a9d549e2010",
+      "data": [
+        {
+          "text": "A network consists of ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " or more computers that are linked in order to share resources (such as printers and CDs), exchange files, or allow electronic communications. The computers on a network may be linked through cables, telephone lines, radio waves, satellites, or infrared light beams.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510425006,
+      "isAuto": false
+    },
+    {
+      "id": "56078604-22f8-4493-a949-6da4f8b46152",
+      "data": [
+        {
+          "text": "A network is a collection of computers, servers, mainframes, network devices, peripherals, or other devices connected to one another to allow the sharing of data.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425006,
+      "isAuto": false
+    },
+    {
+      "id": "f7868f45-1da6-4942-9c97-58679ad8c06a",
+      "data": [
+        {
+          "text": "A network is defined as a group of ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " or more computer systemslinked together.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425006,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

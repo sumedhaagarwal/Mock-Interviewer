@@ -1,0 +1,531 @@
+{
+  "id": "c0078071-42bc-4517-91a8-5beebd2098e0",
+  "name": "dsans3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "60c05091-ea5d-4c1a-b950-a3e1abc0faf4",
+          "dataType": "@DS_entity",
+          "name": "DS_entity",
+          "value": "$DS_entity",
+          "isList": false
+        },
+        {
+          "id": "ffc46d52-8b23-4997-8047-384e30e2a6d0",
+          "dataType": "@DS_entity",
+          "name": "DS_entity1",
+          "value": "$DS_entity1",
+          "isList": false
+        },
+        {
+          "id": "327aaee1-47ea-49c9-a9ad-ed2b4465af51",
+          "dataType": "@DS_entity",
+          "name": "DS_entity2",
+          "value": "$DS_entity2",
+          "isList": false
+        },
+        {
+          "id": "3bee4554-1c0d-4ece-88af-47518c572c17",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "bd964911-e2c5-4270-9fea-afffaa1640dc",
+          "dataType": "@DS_entity",
+          "name": "DS_entity11",
+          "value": "$DS_entity11",
+          "isList": false
+        },
+        {
+          "id": "898027ad-973a-40d4-9ad5-e5ac179697bf",
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        },
+        {
+          "id": "ccc350c0-4ae0-4115-b2f9-70badcff7620",
+          "dataType": "@sys.number",
+          "name": "number2",
+          "value": "$number2",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "dsans3"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431354080,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "e3f987fb-d107-4cdf-8059-702ae15b3095",
+      "data": [
+        {
+          "text": "An ",
+          "userDefined": false
+        },
+        {
+          "text": "AVL tree",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a variant of the ",
+          "userDefined": false
+        },
+        {
+          "text": "binary search tree",
+          "alias": "DS_entity2",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " and  the depths of its left subtree and right subtree differ by at most 1",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428822,
+      "isAuto": false
+    },
+    {
+      "id": "47462082-9eb3-47ac-bf9b-73fc6c33202c",
+      "data": [
+        {
+          "text": "AVL tree",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a ",
+          "userDefined": false
+        },
+        {
+          "text": "binary search tree",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " in which at any given node, the heights of left and right subtrees can not differ by a value greater than ",
+          "userDefined": false
+        },
+        {
+          "text": "1",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": ".",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510428822,
+      "isAuto": false
+    },
+    {
+      "id": "d84ebad3-bfaf-479c-acf1-e35fc960e828",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "balanced binary search tree",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " where the height of the ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " subtrees (children) of a node differs by at most one.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428822,
+      "isAuto": false
+    },
+    {
+      "id": "b1279a5c-9b6d-4671-8fba-9841298059e9",
+      "data": [
+        {
+          "text": "AVL tree",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a ",
+          "userDefined": false
+        },
+        {
+          "text": "binary search tree",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " in which the difference of heights of left and right sub ",
+          "userDefined": false
+        },
+        {
+          "text": "trees",
+          "alias": "DS_entity11",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " of any node is less than or equal to ",
+          "userDefined": false
+        },
+        {
+          "text": "one",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": ".",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510428822,
+      "isAuto": false
+    },
+    {
+      "id": "d5de0331-ab84-4bf9-b12d-4b3123b76967",
+      "data": [
+        {
+          "text": "An ",
+          "userDefined": false
+        },
+        {
+          "text": "AVL tree",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is another ",
+          "userDefined": false
+        },
+        {
+          "text": "balanced binary search tree",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " such that pairs of sub-trees differ in height by at most 1",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428822,
+      "isAuto": false
+    },
+    {
+      "id": "7fd6e3ba-ea4c-4aa9-9a04-a9d683a2cfd2",
+      "data": [
+        {
+          "text": "An ",
+          "userDefined": false
+        },
+        {
+          "text": "AVL tree",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a ",
+          "userDefined": false
+        },
+        {
+          "text": "balanced binary search tree",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ". In an ",
+          "userDefined": false
+        },
+        {
+          "text": "AVL tree",
+          "alias": "DS_entity2",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ", balance factor of every node is either -",
+          "userDefined": false
+        },
+        {
+          "text": "1",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": ", ",
+          "userDefined": false
+        },
+        {
+          "text": "0",
+          "alias": "number2",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " or +",
+          "userDefined": false
+        },
+        {
+          "text": "1",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": ".",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428822,
+      "isAuto": false
+    },
+    {
+      "id": "c47aa7e7-f152-4bac-a080-c7ae66fe1618",
+      "data": [
+        {
+          "text": "AVL trees",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " are height balancing ",
+          "userDefined": false
+        },
+        {
+          "text": "binary search tree",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ". ",
+          "userDefined": false
+        },
+        {
+          "text": "AVL tree",
+          "alias": "DS_entity2",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " checks the height of the left and the right sub-trees and assures that the difference is not more than ",
+          "userDefined": false
+        },
+        {
+          "text": "1",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": ". This difference is called the Balance Factor.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510428822,
+      "isAuto": false
+    },
+    {
+      "id": "9fd2914f-484a-41ba-87a5-e4b386869fca",
+      "data": [
+        {
+          "text": "AVL tree",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a self-balancing ",
+          "userDefined": false
+        },
+        {
+          "text": "Binary Search Tree",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " (",
+          "userDefined": false
+        },
+        {
+          "text": "BST",
+          "alias": "DS_entity11",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ") where the difference between heights of left and right subtrees cannot be more than one for all nodes",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428822,
+      "isAuto": false
+    },
+    {
+      "id": "8e5bda93-43c0-4730-b887-fc404ed2c80d",
+      "data": [
+        {
+          "text": "An ",
+          "userDefined": false
+        },
+        {
+          "text": "AVL tree",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a self-balancing ",
+          "userDefined": false
+        },
+        {
+          "text": "binary search tree",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ". In an ",
+          "userDefined": false
+        },
+        {
+          "text": "AVL tree",
+          "alias": "DS_entity2",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ", the heights of the ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428822,
+      "isAuto": false
+    },
+    {
+      "id": "fd9773eb-f627-4a74-b753-9cc9a568818d",
+      "data": [
+        {
+          "text": "AVL trees",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " are height balancing ",
+          "userDefined": false
+        },
+        {
+          "text": "binary search tree",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ". ",
+          "userDefined": false
+        },
+        {
+          "text": "AVL tree",
+          "alias": "DS_entity2",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " checks the height of left and right sub-trees and assures that the difference is not more than ",
+          "userDefined": false
+        },
+        {
+          "text": "1",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": ".",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428822,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

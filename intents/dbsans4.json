@@ -1,0 +1,140 @@
+{
+  "id": "0f8dd0f6-294c-458f-98e6-31b8529fb6e1",
+  "name": "dbsans4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b30aece9-bce0-4d91-8bb8-8d8f22f5dee2",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "508cff0f-87fd-4a05-ab69-e594ada89baa",
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "dbsans4"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431353771,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "515123c6-f1dd-4b94-bd44-b8846cd90245",
+      "data": [
+        {
+          "text": "foreign key is defined in a second table, but it refers to the primary key or a unique key in the ",
+          "userDefined": false
+        },
+        {
+          "text": "first",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": " table.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "e3c35019-f016-48ef-b9ec-12304e1aa388",
+      "data": [
+        {
+          "text": "a foreign key is a field (or collection of fields) in one table that uniquely identifies a row of another table or the same table.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "updated": 1510420244,
+      "isAuto": false
+    },
+    {
+      "id": "9470f414-1782-4738-8dad-2757bf7b78cb",
+      "data": [
+        {
+          "text": "A foreign key is a column or columns of data in ",
+          "userDefined": false
+        },
+        {
+          "text": "one",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " table that connects to the primary key data in the original table. To ensure the links between foreign key and primary key tables aren't broken, foreign key constraints can be created to prevent actions that would damage the links between tables and prevent erroneous data from being added to the foreign key column.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510420244,
+      "isAuto": false
+    },
+    {
+      "id": "ef94e437-e867-4f94-aac3-7ca647293aa8",
+      "data": [
+        {
+          "text": "A foreign key is a column or columns of data in one table that connects to the primary key data in the one table to another",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510420244,
+      "isAuto": false
+    },
+    {
+      "id": "f0f95860-4324-4de0-ad77-3e8961191afe",
+      "data": [
+        {
+          "text": "A foreign key is a column or group of columns in a relational database table that provides a link between data in ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " tables.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510420244,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

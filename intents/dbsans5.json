@@ -1,0 +1,135 @@
+{
+  "id": "515cd666-5588-46ac-994c-bb3e2a7a28f7",
+  "name": "dbsans5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "dbsans5"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431353698,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "20c7da46-738c-4a85-b761-5ac5577c5466",
+      "data": [
+        {
+          "text": "Database normalization is the process of organizing data into tables in such a way that the results of using the database are always unambiguous and as intended.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "80129b73-45b3-418c-a46d-fd3f7e4e1617",
+      "data": [
+        {
+          "text": "Normalization is also the process of simplifying the design of a database so that it achieves the optimal structure composed of atomic elements.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510420370,
+      "isAuto": false
+    },
+    {
+      "id": "ddbafb19-4df9-43fe-b41e-474f0ef09228",
+      "data": [
+        {
+          "text": "Database Normalisation is a technique of organizing the data in the database to reduce redundancy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510420370,
+      "isAuto": false
+    },
+    {
+      "id": "5129513d-1b5f-4187-b3d2-b45291b42c55",
+      "data": [
+        {
+          "text": "Normalization is a database design technique which organizes tables in a manner that reduces redundancy and dependency of data. It divides larger tables to smaller tables and links them using relationships.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510420370,
+      "isAuto": false
+    },
+    {
+      "id": "6bca1976-694e-4019-9730-ff07a120ce1a",
+      "data": [
+        {
+          "text": "Database normalization is process used to organize a database into tables and columns so as to reduce redundancy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510420370,
+      "isAuto": false
+    },
+    {
+      "id": "9e9377af-147a-461a-af02-b075d835e3d2",
+      "data": [
+        {
+          "text": "Database Normalisation is a technique of organizing the data in the database. Normalization is a systematic approach of decomposing tables to eliminate data redundancy and undesirable characteristics like Insertion, Update and Deletion Anamolies",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510420370,
+      "isAuto": false
+    },
+    {
+      "id": "9bdf8f64-4002-4a1e-b5e9-9bcbcd26309c",
+      "data": [
+        {
+          "text": "Normalization is  the process of simplifying the design of a database so that it achieves the optimal structure composed of atomic elements",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510420370,
+      "isAuto": false
+    },
+    {
+      "id": "f355b741-3c89-4a21-93bc-33dee3bba6f9",
+      "data": [
+        {
+          "text": "Database normalization, or simply normalization, is the process of organizing the columns (attributes) and tables (relations) of a relational database to reduce data redundancy and improve data integrity.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510420370,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

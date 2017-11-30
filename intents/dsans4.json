@@ -1,0 +1,457 @@
+{
+  "id": "a3445701-53e3-4415-a875-978dda48fdd1",
+  "name": "dsans4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f04e09c1-ec8c-4fb6-aff4-6271a3f93a1b",
+          "dataType": "@DS_entity",
+          "name": "DS_entity",
+          "value": "$DS_entity",
+          "isList": false
+        },
+        {
+          "id": "45657936-530a-4718-8046-d42f90c5ce7a",
+          "dataType": "@DBS_entity",
+          "name": "DBS_entity",
+          "value": "$DBS_entity",
+          "isList": false
+        },
+        {
+          "id": "f9003b66-fae9-46d0-adc8-9e5d6975c4b7",
+          "dataType": "@DS_entity",
+          "name": "DS_entity1",
+          "value": "$DS_entity1",
+          "isList": false
+        },
+        {
+          "id": "696413b1-eaa2-496f-9ae9-c49f482eb61d",
+          "dataType": "@DS_entity",
+          "name": "DS_entity2",
+          "value": "$DS_entity2",
+          "isList": false
+        },
+        {
+          "id": "fe5e0c4a-3ad4-42db-b292-eb399629862e",
+          "dataType": "@DBS_entity",
+          "name": "DBS_entity1",
+          "value": "$DBS_entity1",
+          "isList": false
+        },
+        {
+          "id": "1cacd55c-da41-458d-87fe-0c1387e50d1a",
+          "dataType": "@DS_entity",
+          "name": "DS_entity21",
+          "value": "$DS_entity21",
+          "isList": false
+        },
+        {
+          "id": "4ff17154-c0a7-41f7-b26e-3d6d4eb37d37",
+          "dataType": "@OS_entity",
+          "name": "OS_entity",
+          "value": "$OS_entity",
+          "isList": false
+        },
+        {
+          "id": "ddd05687-5de2-442e-9e03-1bea19d046cd",
+          "dataType": "@DS_entity",
+          "name": "DS_entity11",
+          "value": "$DS_entity11",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "dsans4"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431354138,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "9656ece4-a6aa-4bd4-8a2b-a6e0fbcec6aa",
+      "data": [
+        {
+          "text": "Hashing",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is the transformation of a string of characters into a usually shorter fixed-length value or ",
+          "userDefined": false
+        },
+        {
+          "text": "key",
+          "alias": "DBS_entity",
+          "meta": "@DBS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " that represents the original string.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428877,
+      "isAuto": false
+    },
+    {
+      "id": "ec1fca35-4f01-4c8d-ba4b-c8a7484919d9",
+      "data": [
+        {
+          "text": "Hashing",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a technique that is used to ",
+          "userDefined": false
+        },
+        {
+          "text": "uniquely",
+          "alias": "DBS_entity",
+          "meta": "@DBS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " identify a specific object from a group of similar objects.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "updated": 1510428877,
+      "isAuto": false
+    },
+    {
+      "id": "fc08375b-6653-423e-805a-24ea4a5168b2",
+      "data": [
+        {
+          "text": "Hashing",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is the ",
+          "userDefined": false
+        },
+        {
+          "text": "process",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " of indexing and retrieving element (",
+          "userDefined": false
+        },
+        {
+          "text": "data",
+          "alias": "DS_entity11",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ") in a datastructure to provide faster way of finding the element using the hash ",
+          "userDefined": false
+        },
+        {
+          "text": "key",
+          "alias": "DBS_entity",
+          "meta": "@DBS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ".",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428877,
+      "isAuto": false
+    },
+    {
+      "id": "3f4e39f4-3906-4e39-9348-52530ad51bec",
+      "data": [
+        {
+          "text": "The idea behind ",
+          "userDefined": false
+        },
+        {
+          "text": "hashing",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is to allow large amounts of ",
+          "userDefined": false
+        },
+        {
+          "text": "data",
+          "alias": "DS_entity11",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " to be indexed using keywords or ",
+          "userDefined": false
+        },
+        {
+          "text": "keys",
+          "alias": "DBS_entity",
+          "meta": "@DBS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " commonly created by complex formulas",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "updated": 1510428877,
+      "isAuto": false
+    },
+    {
+      "id": "1b55c0d7-1c52-4f71-bdd4-75d8be9bb2df",
+      "data": [
+        {
+          "text": "Hashing",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is the ",
+          "userDefined": false
+        },
+        {
+          "text": "process",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " of ",
+          "userDefined": false
+        },
+        {
+          "text": "mapping",
+          "alias": "DS_entity21",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " large amount of ",
+          "userDefined": false
+        },
+        {
+          "text": "data",
+          "alias": "DS_entity11",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " item to a smaller table with the help of a ",
+          "userDefined": false
+        },
+        {
+          "text": "hashing",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " function.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428877,
+      "isAuto": false
+    },
+    {
+      "id": "99c744a1-4830-4d63-8074-95060b3b20cc",
+      "data": [
+        {
+          "text": "In ",
+          "userDefined": false
+        },
+        {
+          "text": "Hashing",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ", we use a ",
+          "userDefined": false
+        },
+        {
+          "text": "hash function",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " to map ",
+          "userDefined": false
+        },
+        {
+          "text": "data",
+          "alias": "DS_entity2",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " of arbitrary size to ",
+          "userDefined": false
+        },
+        {
+          "text": "data",
+          "alias": "DS_entity21",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " of fixed size.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428877,
+      "isAuto": false
+    },
+    {
+      "id": "12113506-4e3f-40a0-85a9-ba2308f1f16e",
+      "data": [
+        {
+          "text": "Hashing",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is used to index and retrieve items in a ",
+          "userDefined": false
+        },
+        {
+          "text": "database",
+          "alias": "DBS_entity",
+          "meta": "@DBS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " because it is faster to find the item using the shorter hashed ",
+          "userDefined": false
+        },
+        {
+          "text": "key",
+          "alias": "DBS_entity1",
+          "meta": "@DBS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " than to find it using the original value.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510428877,
+      "isAuto": false
+    },
+    {
+      "id": "e564bfed-66ae-485e-b9c5-7d67c53949a5",
+      "data": [
+        {
+          "text": "Hashing",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is generating a value or values from a string of text using a mathematical function.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428877,
+      "isAuto": false
+    },
+    {
+      "id": "045b8567-26c8-438e-a463-1238d1e47803",
+      "data": [
+        {
+          "text": "Hashing",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a technique to convert a range of ",
+          "userDefined": false
+        },
+        {
+          "text": "key",
+          "alias": "DBS_entity",
+          "meta": "@DBS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " values into a range of indexes of an ",
+          "userDefined": false
+        },
+        {
+          "text": "array",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ". By using hash tables, we can create an associative ",
+          "userDefined": false
+        },
+        {
+          "text": "data",
+          "alias": "DS_entity2",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " storage where data index can be find by providing its key values.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428877,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

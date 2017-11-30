@@ -1,0 +1,532 @@
+{
+  "id": "1c4b386a-8ce8-4a3d-b103-90e5df963ca2",
+  "name": "dsans2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "21e7087b-ec6f-43d0-a14f-f59331124ee0",
+          "dataType": "@OS_entity",
+          "name": "OS_entity",
+          "value": "$OS_entity",
+          "isList": false
+        },
+        {
+          "id": "29dcbc8b-934c-4008-88de-5bc1555a0e3e",
+          "dataType": "@DBS_entity",
+          "name": "DBS_entity",
+          "value": "$DBS_entity",
+          "isList": false
+        },
+        {
+          "id": "6f470a6f-0e38-4729-8f82-bee634cfcbb4",
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "isList": false
+        },
+        {
+          "id": "b15a2722-fe16-4767-8c3d-0178f8b6aeb2",
+          "dataType": "@CN_entity",
+          "name": "CN_entity",
+          "value": "$CN_entity",
+          "isList": false
+        },
+        {
+          "id": "9dba2f58-409c-4aea-95cc-d36c25e78328",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "94ac7589-9b2a-4a2b-8f94-1bfd545fa820",
+          "dataType": "@DS_entity",
+          "name": "DS_entity",
+          "value": "$DS_entity",
+          "isList": false
+        },
+        {
+          "id": "ac4ece48-b540-4bfe-9f72-735ca02d6b92",
+          "dataType": "@OS_entity",
+          "name": "OS_entity1",
+          "value": "$OS_entity1",
+          "isList": false
+        },
+        {
+          "id": "0982b46d-7d8c-475a-b223-2f14679d1393",
+          "dataType": "@OS_entity",
+          "name": "OS_entity11",
+          "value": "$OS_entity11",
+          "isList": false
+        },
+        {
+          "id": "1cd33406-9c79-42b4-87dc-0c3084963b47",
+          "dataType": "@OS_entity",
+          "name": "OS_entity2",
+          "value": "$OS_entity2",
+          "isList": false
+        },
+        {
+          "id": "e0cdb433-9dbe-4eca-9aa3-702cd259ac6e",
+          "dataType": "@sys.ordinal",
+          "name": "ordinal1",
+          "value": "$ordinal1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "dsans2"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431354308,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "d593babd-5533-4288-a434-2263735b5091",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a collection that is based on the last-in-first-out (LIFO) policy.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 4,
+      "updated": 1510428509,
+      "isAuto": false
+    },
+    {
+      "id": "8f6473d0-f787-46cc-972e-54eb39574a04",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a basic ",
+          "userDefined": false
+        },
+        {
+          "text": "data structure",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " that can be logically thought ",
+          "userDefined": false
+        },
+        {
+          "text": "as",
+          "alias": "CN_entity",
+          "meta": "@CN_entity",
+          "userDefined": false
+        },
+        {
+          "text": " linear structure represented by a real physical ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity1",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " or pile, a structure where insertion and deletion of items takes place at one end called top of the stack.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "updated": 1510428509,
+      "isAuto": false
+    },
+    {
+      "id": "e06530e9-c2e9-4552-9a4c-2b4eaff97b2f",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a special type of ",
+          "userDefined": false
+        },
+        {
+          "text": "data structure",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " in which items are removed in the reverse order from that in which they are added, so the most recently added item is the ",
+          "userDefined": false
+        },
+        {
+          "text": "first one",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": " removed",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 6,
+      "updated": 1510428509,
+      "isAuto": false
+    },
+    {
+      "id": "4213f3d6-3beb-4a3c-b922-c554c8732a3d",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a conceptual structure consisting of a set of homogeneous elements and is based on the principle of last in ",
+          "userDefined": false
+        },
+        {
+          "text": "first",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": " out (LIFO).",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428509,
+      "isAuto": false
+    },
+    {
+      "id": "4a004c7a-cdce-4dcd-b34c-0b4296f8ebec",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is an ",
+          "userDefined": false
+        },
+        {
+          "text": "array",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " or list structure of function calls and parameters used in modern ",
+          "userDefined": false
+        },
+        {
+          "text": "computer",
+          "alias": "OS_entity1",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " programming and ",
+          "userDefined": false
+        },
+        {
+          "text": "CPU",
+          "alias": "OS_entity11",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " architecture. Elements in a ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity2",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " are added or removed from the top of the stack, in a “last in ",
+          "userDefined": false
+        },
+        {
+          "text": "first",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": ", ",
+          "userDefined": false
+        },
+        {
+          "text": "first",
+          "alias": "ordinal1",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": " out” or LIFO order.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428509,
+      "isAuto": false
+    },
+    {
+      "id": "dd69e4a5-075e-4647-b4b1-60b1a9c9221c",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is an ordered collection of items where the addition of new items and the removal of existing items always takes place at the top.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428509,
+      "isAuto": false
+    },
+    {
+      "id": "a50a72b7-fe47-4fa0-ac0f-b3c37c38c255",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a limited access ",
+          "userDefined": false
+        },
+        {
+          "text": "data structure",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " - elements can be added and removed from the ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity1",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " only at the top. push adds an item to the top of the stack, pop removes the item from the top",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428509,
+      "isAuto": false
+    },
+    {
+      "id": "541ca6cb-4869-404c-9bf2-53b64977aa6b",
+      "data": [
+        {
+          "text": "a ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is an abstract ",
+          "userDefined": false
+        },
+        {
+          "text": "data type",
+          "alias": "DBS_entity",
+          "meta": "@DBS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " that serves ",
+          "userDefined": false
+        },
+        {
+          "text": "as",
+          "alias": "CN_entity",
+          "meta": "@CN_entity",
+          "userDefined": false
+        },
+        {
+          "text": " a collection of elements, with ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " principal operations: push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428509,
+      "isAuto": false
+    },
+    {
+      "id": "6cc96284-fc77-42c5-bccb-31cb1d2d5b0f",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a container of objects that are inserted and removed according to the last-in ",
+          "userDefined": false
+        },
+        {
+          "text": "first",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": "-out (LIFO) principle",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428509,
+      "isAuto": false
+    },
+    {
+      "id": "f78add10-a161-45e4-9be3-92dd032b4fdf",
+      "data": [
+        {
+          "text": "In data-structure, ",
+          "userDefined": false
+        },
+        {
+          "text": "stack",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is an Abstract ",
+          "userDefined": false
+        },
+        {
+          "text": "Data Type",
+          "alias": "DBS_entity",
+          "meta": "@DBS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " (ADT) used to store and retrieve values in Last In ",
+          "userDefined": false
+        },
+        {
+          "text": "First",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": " Out method.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510428509,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

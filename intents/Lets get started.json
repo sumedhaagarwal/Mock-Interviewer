@@ -1,0 +1,202 @@
+{
+  "id": "0ebbf8b0-450c-4d21-966e-bca74481f3f5",
+  "name": "Lets get started",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "sma",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "68f4b7e0-2f4f-4f3f-a2df-dced71ef97ca",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "username",
+          "value": "$username",
+          "prompts": [
+            "What is your name?",
+            "Please tell me your name?"
+          ],
+          "isList": true
+        },
+        {
+          "id": "6c0c5653-75f0-479b-a5cd-9455e66d034d",
+          "required": false,
+          "dataType": "@welcome",
+          "name": "welcome",
+          "value": "$welcome",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Hi $username ! So Lets get started?",
+            "Hello $username !  So Lets get started?",
+            ""
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431353943,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "c5136cfa-2b42-42be-b544-9111cd5b55f9",
+      "data": [
+        {
+          "text": "hi",
+          "alias": "welcome",
+          "meta": "@welcome",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a19f6ed7-a4fd-4efa-ae0b-be40235dcf16",
+      "data": [
+        {
+          "text": "hello",
+          "alias": "welcome",
+          "meta": "@welcome",
+          "userDefined": false
+        },
+        {
+          "text": ",  how are you>",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510427853,
+      "isAuto": false
+    },
+    {
+      "id": "87707218-92aa-4f5b-ba20-d0fd938b7935",
+      "data": [
+        {
+          "text": "$username",
+          "alias": "username",
+          "meta": "@sys.given-name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510427853,
+      "isAuto": false
+    },
+    {
+      "id": "08e500c5-2d6c-4a09-8e9f-439b7172c629",
+      "data": [
+        {
+          "text": "Goodmorning I am ",
+          "userDefined": false
+        },
+        {
+          "text": "$username",
+          "alias": "username",
+          "meta": "@sys.given-name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510427853,
+      "isAuto": false
+    },
+    {
+      "id": "1667434d-c3aa-4bd4-9af4-99fe88fedf0a",
+      "data": [
+        {
+          "text": "Goodmorning my name is ",
+          "userDefined": false
+        },
+        {
+          "text": "$username",
+          "alias": "username",
+          "meta": "@sys.given-name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510427853,
+      "isAuto": false
+    },
+    {
+      "id": "909b790f-4dd9-47c4-83b0-c4324fd60d30",
+      "data": [
+        {
+          "text": "Hello",
+          "alias": "welcome",
+          "meta": "@welcome",
+          "userDefined": true
+        },
+        {
+          "text": " I am ",
+          "userDefined": false
+        },
+        {
+          "text": "$username",
+          "alias": "username",
+          "meta": "@sys.given-name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510427853,
+      "isAuto": false
+    },
+    {
+      "id": "87df41aa-95ac-4fa0-9e21-efc52a77046c",
+      "data": [
+        {
+          "text": "Hello",
+          "alias": "welcome",
+          "meta": "@welcome",
+          "userDefined": true
+        },
+        {
+          "text": " my name is ",
+          "userDefined": false
+        },
+        {
+          "text": "$username",
+          "alias": "username",
+          "meta": "@sys.given-name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510427853,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

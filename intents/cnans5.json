@@ -1,0 +1,266 @@
+{
+  "id": "d9445f6c-be94-4e2e-9be8-afdaac810d99",
+  "name": "cnans5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "776515b6-9269-4361-90a0-9d77e1880983",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "84c140cc-cfa4-47c0-9952-04def42e19f5",
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "cnans5"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431353811,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "56dbd4a1-ddde-4a68-be82-518a6b3a94dc",
+      "data": [
+        {
+          "text": "A point-to-point connection is a dedicated communication link between two systems or processes.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "updated": 1510425228,
+      "isAuto": false
+    },
+    {
+      "id": "6c1cc4c5-4588-4983-8da4-87aa98fcc7d4",
+      "data": [
+        {
+          "text": "PPP also tunnels Internet Protocol (IP) or other network Layer ",
+          "userDefined": false
+        },
+        {
+          "text": "3",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " data between ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " directly connected nodes over a physical connection, or over a direct link.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510425228,
+      "isAuto": false
+    },
+    {
+      "id": "766cb929-4ba2-4f9a-b76c-8b400411ddf5",
+      "data": [
+        {
+          "text": "PPP (Point-to-Point Protocol) refers to a family of computer networking protocols that provide a standard way to transport multiprotocol data over point-to-point links.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 5,
+      "updated": 1510425228,
+      "isAuto": false
+    },
+    {
+      "id": "a11698ca-55db-4a1b-a86b-8751cc225318",
+      "data": [
+        {
+          "text": "PPP is commonly used as a data link layer protocol for connection over synchronous and asynchronous circuits, where it has largely superseded the older Serial Line Internet Protocol (SLIP) and telephone company mandated standards",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "updated": 1510425228,
+      "isAuto": false
+    },
+    {
+      "id": "dfc361ec-f63e-4637-9fc3-39e1529d7e6f",
+      "data": [
+        {
+          "text": "PPP is used over many types of physical networks including serial cable, phone line, trunk line, cellular telephone, specialized radio links, and fiber optic links such as SONET.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510425228,
+      "isAuto": false
+    },
+    {
+      "id": "346e55d6-b0ca-43c4-ae1c-012efb76550a",
+      "data": [
+        {
+          "text": "It connects ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " routers directly without any host or any other networking device in between. It can provide connection authentication, transmission encryption,[",
+          "userDefined": false
+        },
+        {
+          "text": "1",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": "] and compression.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510425228,
+      "isAuto": false
+    },
+    {
+      "id": "d842645f-2d45-4278-b10b-7c5b70c6fe43",
+      "data": [
+        {
+          "text": "In computer networking, Point-to-Point Protocol (PPP) is a data link layer (layer ",
+          "userDefined": false
+        },
+        {
+          "text": "2",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": ") communications protocol used to establish a direct connection between ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " nodes.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510425228,
+      "isAuto": false
+    },
+    {
+      "id": "4cc74650-7360-48ff-b0c7-45eb4059df6c",
+      "data": [
+        {
+          "text": "The term is also used in computer networking and computer architecture to refer to a wire or other connection that links only ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " computers or circuits, as opposed to other network topologies such as buses or crossbar switches which can connect many communications devices.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425228,
+      "isAuto": false
+    },
+    {
+      "id": "d979d574-0c66-4e10-96e4-b787758bb1d1",
+      "data": [
+        {
+          "text": "An example is a telephone call, in which one telephone is connected with one other, and what is said by ",
+          "userDefined": false
+        },
+        {
+          "text": "one",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " caller can only be heard by the other.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425228,
+      "isAuto": false
+    },
+    {
+      "id": "c4a481cc-86d2-4ca4-ada2-86066ae08adb",
+      "data": [
+        {
+          "text": "In telecommunications, a point-to-point connection refers to a communications connection between ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " nodes or endpoints.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425228,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

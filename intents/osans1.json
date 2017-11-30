@@ -1,0 +1,196 @@
+{
+  "id": "cb48f7f0-dd19-42d7-aa71-df253ffdb930",
+  "name": "osans1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "06b36187-fa21-4ee1-b60a-38616e2e452e",
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "osans1"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431353666,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "cc0ecc1b-4e00-425e-ba79-1b3a69573c6d",
+      "data": [
+        {
+          "text": "Kernel connects the system hardware to the application software.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "ce606eef-e511-4fbe-9be1-ffe4b041b759",
+      "data": [
+        {
+          "text": "The kernel provides basic services for all other parts of the operating system, typically including memory management, process management, file management and I/O (input/output) management (i.e., accessing the peripheral devices).",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "39c1b043-f5aa-4a2b-8719-ac50c91ce19c",
+      "data": [
+        {
+          "text": "The kernel is responsible for memory management, process and task management, and disk management.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "141a95b7-6252-4504-a9d5-658fff8bd523",
+      "data": [
+        {
+          "text": "A kernel functions at a basic level, communicating with hardware and managing resources, such as RAM and the CPU.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "72bc791c-d0ed-4acb-a8dd-9cab1605feb8",
+      "data": [
+        {
+          "text": "The kernel is responsible for low-level tasks such as disk management, task management and memory management.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "961b8242-c932-402e-94c6-d9de96828a2e",
+      "data": [
+        {
+          "text": "A computer kernel interfaces between the three major computer hardware components, providing services between the application/user interface and the CPU, memory and other hardware I/O devices.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "8c6f567f-a849-4474-bccc-b0140f3c7501",
+      "data": [
+        {
+          "text": "A kernel is the core component of an operating system and using interprocess communication and system calls, it acts as a bridge between applications and the data processing performed at the hardware level.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 5,
+      "updated": 1510421919,
+      "isAuto": false
+    },
+    {
+      "id": "877cc172-2753-4703-b842-bc359a50952e",
+      "data": [
+        {
+          "text": "The kernel is the ",
+          "userDefined": false
+        },
+        {
+          "text": "first",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": " part of the operating system to load into memory during booting and it remains there for the entire duration of the computer session because its services are required continuously.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510421919,
+      "isAuto": false
+    },
+    {
+      "id": "d84622f9-c70b-4bfd-8c76-1cb3a3036e4d",
+      "data": [
+        {
+          "text": "The kernel is the central module of an operating system (OS) that loads ",
+          "userDefined": false
+        },
+        {
+          "text": "first",
+          "alias": "ordinal",
+          "meta": "@sys.ordinal",
+          "userDefined": false
+        },
+        {
+          "text": ", and it remains in main memory.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510421919,
+      "isAuto": false
+    },
+    {
+      "id": "0dda60aa-6769-4c46-8333-72930e9e57c1",
+      "data": [
+        {
+          "text": "The kernel is a computer program that is the core of a computer's operating system, with complete control over everything in the system",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510421919,
+      "isAuto": false
+    },
+    {
+      "id": "57f36ca7-fb17-413d-ac8e-a7113bfb5a2e",
+      "data": [
+        {
+          "text": "Kernel is the core and essential part of computer operating system that provides basic services for all parts of OS.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510421919,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

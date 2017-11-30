@@ -1,0 +1,218 @@
+{
+  "id": "e75f4832-81fd-4274-a271-ab279a09a9b0",
+  "name": "osans5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "33097ed6-24da-47ab-9d35-a2d0235f3ce0",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "185828f3-0550-406e-997e-7d2c7559ef1d",
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "osans5"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431354529,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "1c135462-95e4-41a0-a90d-0d53d42e28bd",
+      "data": [
+        {
+          "text": "A deadlock is a condition wherein ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " or more tasks are waiting for each other in order to be finished but none of the task is willing to give up the resources that other task needs.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "099e5725-8a87-463a-82ac-d75cb2e042e9",
+      "data": [
+        {
+          "text": "deadlock is a situation where ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " different programs or processes depend on one another for completion, either because both are using the same resources or because of erroneous cues or other problems.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "9ce4ade9-bb06-41d6-829f-d07ef32cf5a0",
+      "data": [
+        {
+          "text": "Deadlock is when ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " or more tasks never make progress because each is waiting for some resource held by another process.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 5,
+      "isAuto": false
+    },
+    {
+      "id": "566504d6-7af0-4009-953e-73484ac0282b",
+      "data": [
+        {
+          "text": "Deadlocks are a set of blocked processes each holding a resource and waiting to acquire a resource held by another process",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "isAuto": false
+    },
+    {
+      "id": "ed2b9586-3ff2-4f19-a4be-a229e2fa54e1",
+      "data": [
+        {
+          "text": "deadlock refers to a specific condition when ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " or more processes are each waiting for another to release a resource, or more than ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " processes are waiting for resources in a circular chain",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "822a88b2-0c7d-4738-b66d-c921262a0fde",
+      "data": [
+        {
+          "text": "In operating systems, a deadlock situation is arrived when computer resources required for complete of a computing task are held by another task that is waiting to execute.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "isAuto": false
+    },
+    {
+      "id": "f58b71d0-ebe5-474f-bc0e-569ed24ff338",
+      "data": [
+        {
+          "text": "a deadlock occurs when a process or thread enters a waiting state because a requested system resource is held by another waiting process, which in turn is waiting for another resource held by another waiting process. If a process is unable to change its state indefinitely because the resources requested by it are being used by another waiting process, then the system is said to be in a deadlock.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1fc6187c-1348-423f-be9c-9980f3bb599e",
+      "data": [
+        {
+          "text": "Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "isAuto": false
+    },
+    {
+      "id": "0c06c6db-7f40-45ce-a92c-9f79e4795bd0",
+      "data": [
+        {
+          "text": "A deadlock is a situation in which two computer programs sharing the same resource are effectively preventing each other from accessing the resource, resulting in both programs ceasing to function.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 6,
+      "updated": 1510423227,
+      "isAuto": false
+    },
+    {
+      "id": "8d73863f-9992-4b36-b7d0-182812de9feb",
+      "data": [
+        {
+          "text": "a deadlock is a state in which each member of a group is waiting for some other member to take action, such as sending a message or more commonly releasing a lock",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510423227,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

@@ -1,0 +1,232 @@
+{
+  "id": "dc0f4d17-0279-4bdb-811b-21ca5c104645",
+  "name": "osans4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "635cc676-2dd7-42b1-96d3-c61f0ab590fc",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "cebe8526-cbaf-4369-91cf-60644d369d79",
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "osans4"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431354469,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "8cf3c4a9-c0ba-4eea-a6ff-16a69b785630",
+      "data": [
+        {
+          "text": "Context switching is used for switching processes and maintaining state. When an interrupt request for resourse used by a process, to provide the resourse to I/",
+          "userDefined": false
+        },
+        {
+          "text": "o",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " device , the current working state of process and other parameters are maintained in PCB and the resources are given to I/o requested.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 7,
+      "isAuto": false
+    },
+    {
+      "id": "83c46aa9-bd73-4038-9ff8-76fcc7f2d929",
+      "data": [
+        {
+          "text": "A context switch is the mechanism to store and restore the state or context of a CPU in Process Control block so that a process execution can be resumed from the same point at a later time.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "isAuto": false
+    },
+    {
+      "id": "ffd643fc-d677-4d6d-856c-f41fd998648b",
+      "data": [
+        {
+          "text": "A context switch occurs when a computer's CPU switches from one process or thread to a different process or thread.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 6,
+      "isAuto": false
+    },
+    {
+      "id": "1ac101d4-7128-41c3-9909-0cab07adb218",
+      "data": [
+        {
+          "text": "Context switching allows for ",
+          "userDefined": false
+        },
+        {
+          "text": "one",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " CPU to handle numerous processes or threads without the need for additional processors.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 7,
+      "isAuto": false
+    },
+    {
+      "id": "de5dc844-5b27-4b7f-8310-d8adde9b78aa",
+      "data": [
+        {
+          "text": "Context switching is the procedure of storing the state of an active process for the CPU when it has to start executing a new ",
+          "userDefined": false
+        },
+        {
+          "text": "one",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": ". For example, process A with its address space and stack is currently being executed by the CPU and there is a system call to jump to a higher priority process B; the CPU needs to remember the current state of the process A so that it can suspend its operation, begin executing the new process B and when done, return to its previously executing process A.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "isAuto": false
+    },
+    {
+      "id": "c9e32618-b225-4f4a-b866-fe97c9bae90c",
+      "data": [
+        {
+          "text": "Context switching can be described as (",
+          "userDefined": false
+        },
+        {
+          "text": "1",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": ") suspending the progression of ",
+          "userDefined": false
+        },
+        {
+          "text": "one",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " process and storing the CPU's state (i.e., the context) for that process somewhere in memory, (2) retrieving the context of the next process from memory and restoring it in the CPU's registers and (3) returning to the location indicated by the program counter (i.e., returning to the line of code at which the process was interrupted) in order to resume the process.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 6,
+      "updated": 1510422241,
+      "isAuto": false
+    },
+    {
+      "id": "7cce1668-79b0-4494-a37c-479b0265e844",
+      "data": [
+        {
+          "text": "A context switch is sometimes described as the kernel suspending execution of ",
+          "userDefined": false
+        },
+        {
+          "text": "one",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " process on the CPU and resuming execution of some other process that had previously been suspended",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "updated": 1510422241,
+      "isAuto": false
+    },
+    {
+      "id": "3838f76b-69bc-4516-b653-25813c484b54",
+      "data": [
+        {
+          "text": "A context switch is a procedure that a computer's CPU (central processing unit) follows to change from one task (or process) to another while ensuring that the tasks do not conflict.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422241,
+      "isAuto": false
+    },
+    {
+      "id": "82b7f40d-0317-4c98-ade4-95e0a484812d",
+      "data": [
+        {
+          "text": "A context switch (also sometimes referred to as a process switch or a task switch) is the switching of the CPU (central processing unit) from one process or thread to another.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422241,
+      "isAuto": false
+    },
+    {
+      "id": "a7356dc1-a8e6-4e6d-a942-884818cee3fa",
+      "data": [
+        {
+          "text": "a context switch is the process of storing and restoring the state of a process or thread so that execution can be resumed from the same point at a later time.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510422241,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

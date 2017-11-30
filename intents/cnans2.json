@@ -1,0 +1,196 @@
+{
+  "id": "ea432744-bdd7-4265-92c5-2e7314604355",
+  "name": "cnans2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "42054992-e847-4bde-bf3d-9e6992287e1c",
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "4876c738-8eb7-44b7-9367-7a3b482b1387",
+          "dataType": "@sys.date-period",
+          "name": "date-period1",
+          "value": "$date-period1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "cnans2"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431354257,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "7610ec3c-ebef-4cfe-a91c-4ad8be6d9030",
+      "data": [
+        {
+          "text": "DHCP (Dynamic Host Configuration Protocol) is a protocol that is commonly used in networks for dynamic IP addressing configuration.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510424598,
+      "isAuto": false
+    },
+    {
+      "id": "8398f003-3677-4a4e-8178-aa559d0a2280",
+      "data": [
+        {
+          "text": "During the boot process, a client computer that is configured as a DHCP client sends out a broadcast packet called DHCPDISCOVER. This Discover packet contains the client's computer name and Media Access Control (MAC) address so the DHCP servers can respond to it",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510424598,
+      "isAuto": false
+    },
+    {
+      "id": "ae13086f-d1fe-4e13-ab9f-252ac148aa83",
+      "data": [
+        {
+          "text": "A DHCP server is used to issue unique IP addresses and automatically configure other network information.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510424598,
+      "isAuto": false
+    },
+    {
+      "id": "93ed1be6-6d9f-4ffa-8ebc-e84cbbfc070f",
+      "data": [
+        {
+          "text": "DHCP (Dynamic Host Configuration Protocol) is a protocol used to provide quick, automatic, and central management for the distribution of IP addresses within a network.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510424598,
+      "isAuto": false
+    },
+    {
+      "id": "d46d4dfa-2983-4e36-bbd4-39a7ed374358",
+      "data": [
+        {
+          "text": "DHCP supports Automatic Private IP Addressing (APIPA), which enables computers running Windows ",
+          "userDefined": false
+        },
+        {
+          "text": "2000",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": ", Windows XP, and Windows Server ",
+          "userDefined": false
+        },
+        {
+          "text": "2003",
+          "alias": "date-period1",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " to configure an IP address and subnet mask if a DHCP server is unavailable at system startup and the Automatic private IP address Alternate Configuration setting is selected.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510424598,
+      "isAuto": false
+    },
+    {
+      "id": "49faf89c-75bc-4bb0-a494-d3920a9ef795",
+      "data": [
+        {
+          "text": "The DHCP architecture consists of DHCP clients, DHCP servers, and DHCP relay agents on a network. The clients interact with servers using DHCP messages in a DHCP conversation to obtain and renew IP address leases.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510424598,
+      "isAuto": false
+    },
+    {
+      "id": "d322a089-0d7a-4c0e-a5f8-0ca65178b535",
+      "data": [
+        {
+          "text": "A DHCP server provides this information to a DHCP client through the exchange of a series of messages, known as the DHCP conversation or the DHCP transaction.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510424598,
+      "isAuto": false
+    },
+    {
+      "id": "d95e9b42-9643-4b0b-bc27-03122e9df037",
+      "data": [
+        {
+          "text": "DHCP provides an automated way to distribute and update IP addresses and other configuration information on a network.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510424598,
+      "isAuto": false
+    },
+    {
+      "id": "8a6d97c2-340b-4562-80b0-c199bb654c8a",
+      "data": [
+        {
+          "text": "on a TCP/IP network, each network client must have a unique IP address and an appropriate subnet mask. Without these items, a client cannot communicate on the network.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510424598,
+      "isAuto": false
+    },
+    {
+      "id": "502eccdc-07a4-4602-83f2-333d43a8859d",
+      "data": [
+        {
+          "text": "a server service that enables the server to dynamically assign IP addresses to network clients.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510424598,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

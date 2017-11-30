@@ -1,0 +1,176 @@
+{
+  "id": "2fa8710d-9f98-4433-9f4c-fe6395bd366a",
+  "name": "osans3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0ff6b096-353b-42d0-88c5-b1af755d0f0d",
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "osans3"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431354411,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "80e0a257-5f50-4850-a73f-2f7401a0d7a1",
+      "data": [
+        {
+          "text": "Virtual memory is used to enlarge the address space, the set of addresses a program can utilize.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "isAuto": false
+    },
+    {
+      "id": "f2c43587-520a-4903-85ff-ba341f3c285c",
+      "data": [
+        {
+          "text": "Virtual memory is an imaginary memory area supported by some operating systems in conjunction with the hardware",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "960bafdb-549f-4d05-bb6e-ccf526de1007",
+      "data": [
+        {
+          "text": "Virtual Memory is a space where large programs can store themselves in form of pages while their execution and only the required pages or portions of processes are loaded into the main memory.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 4,
+      "isAuto": false
+    },
+    {
+      "id": "f6babac0-095d-40d7-ac95-c2158dc57b74",
+      "data": [
+        {
+          "text": "Virtual memory is a memory management capability of an OS that uses hardware and software to allow a computer to compensate for physical memory shortages by temporarily transferring data from random access memory (RAM) to disk storage.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 9,
+      "updated": 1510422846,
+      "isAuto": false
+    },
+    {
+      "id": "001f038f-d8b5-461e-a372-cfe7ac867a4a",
+      "data": [
+        {
+          "text": "Virtual memory allows us to extend the use of physical memory by using disk and it allows us to have memory protection",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422846,
+      "isAuto": false
+    },
+    {
+      "id": "c037cb51-1372-4abc-b9df-0024a3d5851f",
+      "data": [
+        {
+          "text": "Virtual memory is an integral part of a modern computer architecture; implementations usually require hardware support, typically in the form of a memory management unit built into the CPU",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "updated": 1510422846,
+      "isAuto": false
+    },
+    {
+      "id": "78493c9a-6ab2-4770-9209-ff054320a5ec",
+      "data": [
+        {
+          "text": "A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory and it is a section of a hard disk that's set up to emulate the computer's RAM.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422846,
+      "isAuto": false
+    },
+    {
+      "id": "ae88edba-ff0b-41d4-bc19-2afc7419c36f",
+      "data": [
+        {
+          "text": "Virtual Memory is a storage allocation scheme in which secondary memory can be addressed as though it were part of main memory. The addresses a program ",
+          "userDefined": false
+        },
+        {
+          "text": "may",
+          "alias": "date-period",
+          "meta": "@sys.date-period",
+          "userDefined": false
+        },
+        {
+          "text": " use to reference memory are distinguished from the addresses the memory system uses to identify physical storage sites, and program generated addresses are translated automatically to the corresponding machine addresses.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422846,
+      "isAuto": false
+    },
+    {
+      "id": "e57e90db-55e1-421b-9c03-8add3b34f414",
+      "data": [
+        {
+          "text": "virtual memory is a memory management technique that provides an idealized abstraction of the storage resources that are actually available on a given machine which creates the illusion to users of a very large memory.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422846,
+      "isAuto": false
+    },
+    {
+      "id": "d7f7e615-13d3-475a-8b36-c5c0b49fa8cc",
+      "data": [
+        {
+          "text": "Virtual memory is hardware technique where the system appears to have more memory that it actually does. This is done by time-sharing, the physical memory and storage parts of the memory one disk when they are not actively being used.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510422846,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

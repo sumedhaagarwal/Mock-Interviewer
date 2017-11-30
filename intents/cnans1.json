@@ -1,0 +1,209 @@
+{
+  "id": "2b396cea-203e-469a-9311-71ddb321738f",
+  "name": "cnans1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5faf7503-3b86-4d73-b005-632d93d69e58",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "7f14747e-a198-468e-ab5a-5940c4297d1b",
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "cnans1"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431354361,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "fca712a3-5aba-421e-890c-a195517e094b",
+      "data": [
+        {
+          "text": "After sending a packet to network layer, receiver sends a dummy frame back to sender - which effectively tells sender to send next frame.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "52a22e68-2a7b-420b-881f-6b9a4f0afffc",
+      "data": [
+        {
+          "text": "sender sends one data frame, waits for acknowledgement (ACK) from receiver before proceeding to transmit next frame",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "fe3cf328-cdc8-4442-b6bc-dd14e32583d3",
+      "data": [
+        {
+          "text": "Stop and Wait transmission is the simplest reliability technique and is adequate for a very simple communications protocol. A stop and wait protocol transmits a Protocol Data Unit (PDU) of information and then waits for a response.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "c58ab4c9-c70e-4c77-9488-eb0f19ab91e3",
+      "data": [
+        {
+          "text": "fundamental technique to provide reliable transfer under unreliable packet delivery system.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "isAuto": false
+    },
+    {
+      "id": "b80e075f-9f52-42b6-8398-68497738182e",
+      "data": [
+        {
+          "text": "Used in Connection-oriented communication. It offers error and flow control. Stop and Wait ARQ mainly implements Sliding Window Protocol concept with Window Size ",
+          "userDefined": false
+        },
+        {
+          "text": "1",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": ".",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "isAuto": false
+    },
+    {
+      "id": "e8322b13-f421-4f5a-a906-22482d55e188",
+      "data": [
+        {
+          "text": "Typically the transmitter adds a redundancy check number to the end of each frame. The receiver uses the redundancy check number to check for possible damage. If the receiver sees that the frame is good, it sends an ACK. If the receiver sees that the frame is damaged, the receiver discards it and does not send an ACK—pretending that the frame was completely lost, not merely damaged.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "isAuto": false
+    },
+    {
+      "id": "6cd2abc0-2bd3-4055-809e-0e37d7f091de",
+      "data": [
+        {
+          "text": "After sending each frame, the sender doesn't send any further frames until it receives an acknowledgement (ACK) signal. After receiving a valid frame, the receiver sends an ACK. If the ACK does not reach the sender before a certain time, known as the timeout, the sender sends the same frame again. The timeout countdown is reset after each frame transmission.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "isAuto": false
+    },
+    {
+      "id": "ece81f60-a7f1-4b1f-bd28-4769e7e32dcb",
+      "data": [
+        {
+          "text": "A stop-and-wait ARQ sender sends one frame at a time; it is a special case of the general sliding window protocol with transmit and receive window sizes equal to ",
+          "userDefined": false
+        },
+        {
+          "text": "one",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " and greater than ",
+          "userDefined": false
+        },
+        {
+          "text": "one",
+          "alias": "number1",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " respectively.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "updated": 1510423761,
+      "isAuto": false
+    },
+    {
+      "id": "01cdf701-1a25-4107-af50-4628a6f00c4e",
+      "data": [
+        {
+          "text": "It ensures that information is not lost due to dropped packets and that packets are received in the correct order. It is the simplest automatic repeat-request (ARQ) mechanism.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510423761,
+      "isAuto": false
+    },
+    {
+      "id": "4a1d599f-d884-41b8-9a8f-ed4cc74d1442",
+      "data": [
+        {
+          "text": "Stop-and-wait ARQ, also referred to as alternating bit protocol, is a method in telecommunications to send information between ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " connected devices",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510423761,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

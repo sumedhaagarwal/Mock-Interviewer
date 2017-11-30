@@ -1,0 +1,179 @@
+{
+  "id": "3bb39c19-32df-4490-a477-c45bcc80b607",
+  "name": "cnans4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d56e1618-525a-47f1-889a-628f0f9180e8",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "cnans4"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431353853,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "ab602d71-c769-4c35-8694-76fca92af516",
+      "data": [
+        {
+          "text": "In computing, a protocol or communication protocol is a set of rules in whichcomputers communicate with each other.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425116,
+      "isAuto": false
+    },
+    {
+      "id": "e5651d13-b84f-4b12-96d6-d4d23f7fee58",
+      "data": [
+        {
+          "text": "When computers communicate with each other, there needs to be a common set of rules and instructions that each computer follows. A specific set of communication rules is called a protocol.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425116,
+      "isAuto": false
+    },
+    {
+      "id": "22829cd1-8371-46b5-bf7f-78aef55da7c5",
+      "data": [
+        {
+          "text": "One of the most common and known protocols is HTTP (HyperText Transfer Protocol), which is a protocol used to transmit data over the world wide web (Internet).",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425116,
+      "isAuto": false
+    },
+    {
+      "id": "dc4834da-43fd-49bb-9dc0-8cf1a987ee05",
+      "data": [
+        {
+          "text": "Sometimes referred to as an access method, a protocol is a standard used to define a method of exchanging data over a computer network",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425116,
+      "isAuto": false
+    },
+    {
+      "id": "c4e46081-11a6-4475-9e73-28d646b29ac3",
+      "data": [
+        {
+          "text": "Protocols specify the standards for communication and provide detailed information on processes involved in data transmission",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425116,
+      "isAuto": false
+    },
+    {
+      "id": "e99d6ae3-7e98-43ad-92d4-d2c6eeda62fa",
+      "data": [
+        {
+          "text": "Similar to programming languages, protocols are based on specific rules and regulations for computing and are designed for efficiency",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425116,
+      "isAuto": false
+    },
+    {
+      "id": "40c3cec5-d562-49bb-bfd2-21cd3e5e814c",
+      "data": [
+        {
+          "text": "A protocol is a set of rules and guidelines for communicating data. Rules are defined for each step and process during communication between ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " or more computers. Networks have to follow these rules to successfully transmit data.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425116,
+      "isAuto": false
+    },
+    {
+      "id": "74394240-ab13-4eb0-ab77-03144562c501",
+      "data": [
+        {
+          "text": "Protocols exist at several levels in a telecommunication connection. For example, there are protocols for the data interchange at the hardware device level and protocols for data interchange at the application program level",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425116,
+      "isAuto": false
+    },
+    {
+      "id": "ffbf2dd6-d11a-4cd6-9089-432917518b90",
+      "data": [
+        {
+          "text": "Protocols specify interactions between the communicating entities.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425116,
+      "isAuto": false
+    },
+    {
+      "id": "1995db49-7205-44cc-aef2-9028d4c72040",
+      "data": [
+        {
+          "text": "In information technology, a protocol is the special set of rules that end points in a telecommunication connection use when they communicate.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425116,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

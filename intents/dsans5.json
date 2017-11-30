@@ -1,0 +1,199 @@
+{
+  "id": "8a35a369-1820-4dac-a419-1d3f4d4b588d",
+  "name": "dsans5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f11ee380-3695-48c4-85f9-7ba8117bb87b",
+          "dataType": "@DS_entity",
+          "name": "DS_entity",
+          "value": "$DS_entity",
+          "isList": false
+        },
+        {
+          "id": "def4b3cf-33f8-4e16-83cb-100faf473fb8",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "3ba25e1a-4485-4aec-bc3c-91e8c4c0eb85",
+          "dataType": "@DS_entity",
+          "name": "DS_entity1",
+          "value": "$DS_entity1",
+          "isList": false
+        },
+        {
+          "id": "01458d07-cfa5-4498-94d3-5b8118200f75",
+          "dataType": "@OS_entity",
+          "name": "OS_entity",
+          "value": "$OS_entity",
+          "isList": false
+        },
+        {
+          "id": "5a82b9e8-b5d2-4614-ac6e-61faeeea84c4",
+          "dataType": "@CN_entity",
+          "name": "CN_entity",
+          "value": "$CN_entity",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "dsans5"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431354034,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "64fb60b9-720e-447d-b7f3-0c852d3cff39",
+      "data": [
+        {
+          "text": "a ",
+          "userDefined": false
+        },
+        {
+          "text": "recursive function",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " can be defined ",
+          "userDefined": false
+        },
+        {
+          "text": "as",
+          "alias": "CN_entity",
+          "meta": "@CN_entity",
+          "userDefined": false
+        },
+        {
+          "text": " a routine that calls itself directly or indirectly.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428920,
+      "isAuto": false
+    },
+    {
+      "id": "8e2739ca-8282-4c12-a4d0-6600ee24b51e",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "recursive function",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a function that calls itself during its ",
+          "userDefined": false
+        },
+        {
+          "text": "execution",
+          "alias": "OS_entity",
+          "meta": "@OS_entity",
+          "userDefined": false
+        },
+        {
+          "text": ".",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428920,
+      "isAuto": false
+    },
+    {
+      "id": "5266cd55-5096-4365-aebe-235c09b6d3e9",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "recursive function",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is a function which either calls itself or is in a potential ",
+          "userDefined": false
+        },
+        {
+          "text": "cycle",
+          "alias": "DS_entity1",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " of function calls.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510428920,
+      "isAuto": false
+    },
+    {
+      "id": "4c63d927-ca3f-4a1e-bf95-5a3b567f150f",
+      "data": [
+        {
+          "text": "A ",
+          "userDefined": false
+        },
+        {
+          "text": "recursive function",
+          "alias": "DS_entity",
+          "meta": "@DS_entity",
+          "userDefined": false
+        },
+        {
+          "text": " is ",
+          "userDefined": false
+        },
+        {
+          "text": "one",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " which calls itself, directly or calls a function that in turn calls it.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510428920,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

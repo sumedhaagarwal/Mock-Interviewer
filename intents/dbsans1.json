@@ -1,0 +1,153 @@
+{
+  "id": "db7f5ca6-2867-4daa-aaf3-a3344155816d",
+  "name": "dbsans1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9c2b0dc7-98a9-4b90-9408-d585190f1eb1",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "dbsans1"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431353720,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "c134fdc5-ae6f-4ca7-8359-32084bb18c39",
+      "data": [
+        {
+          "text": "a super key uniquely identifies a tuple",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3637c6ca-48ee-4e81-92e9-48b75bc3d03a",
+      "data": [
+        {
+          "text": "superset of candidate key",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510419805,
+      "isAuto": false
+    },
+    {
+      "id": "38f3c547-a2fd-44e2-9506-34ea79cd5ff7",
+      "data": [
+        {
+          "text": "A superkey is either a single or a combination of attributes that can be used to uniquely identify a database record",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510419805,
+      "isAuto": false
+    },
+    {
+      "id": "11f7752e-202f-4e6f-82af-7b8c1c9fb260",
+      "data": [
+        {
+          "text": "The set of attributes which can uniquely identify a tuple is known as Super Key",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510419805,
+      "isAuto": false
+    },
+    {
+      "id": "8bb7a503-0f3f-4d3a-8620-8b6aad19922e",
+      "data": [
+        {
+          "text": "A superkey is a combination of columns that uniquely identifies any row within a relational database management system (RDBMS) table",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510419805,
+      "isAuto": false
+    },
+    {
+      "id": "54fe8842-508b-4298-ac57-7e649035b002",
+      "data": [
+        {
+          "text": "A super key is a set or one of more columns (attributes) to uniquely identify rows in a table.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510419805,
+      "isAuto": false
+    },
+    {
+      "id": "d2be8ecf-ee4f-4e27-92e1-c0385e7d0e54",
+      "data": [
+        {
+          "text": "set of attributes where there are no ",
+          "userDefined": false
+        },
+        {
+          "text": "two",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " distinct tuples that have the same values for the attributes in this set",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510419805,
+      "isAuto": false
+    },
+    {
+      "id": "52fc8c15-4efb-4cf5-be0c-90ead4d3fc39",
+      "data": [
+        {
+          "text": "A super-key can be defined as a set of attributes of a relation schema upon which all attributes of the schema are functionally dependent.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510419805,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

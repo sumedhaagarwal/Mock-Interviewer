@@ -1,0 +1,179 @@
+{
+  "id": "49049b3a-10bd-402a-b7ed-85dcf4b94f46",
+  "name": "dsans1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fecb3f1f-9008-40e5-92e2-569d7e626f3a",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "dsans1"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431354214,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "4479e75f-be68-48e6-9b2e-cdb9e48553ec",
+      "data": [
+        {
+          "text": "Data Structures are structures programmed to store ordered data, so that various operations can be performed on it easily.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510425642,
+      "isAuto": false
+    },
+    {
+      "id": "78581598-5346-4a83-8ccd-9ae1577c9653",
+      "data": [
+        {
+          "text": "a data structure is a Specific way to store and organize data in a computer's memory so that these data can be used efficiently later.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510425642,
+      "isAuto": false
+    },
+    {
+      "id": "8798aa5b-51e6-4545-921e-0551122c5565",
+      "data": [
+        {
+          "text": "Data Structures is about rendering data elements in terms of some relationship, for better organization and storage.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425642,
+      "isAuto": false
+    },
+    {
+      "id": "bb872a47-ff7c-4331-baa0-023ded28ba7b",
+      "data": [
+        {
+          "text": "Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510425642,
+      "isAuto": false
+    },
+    {
+      "id": "ce4ff63e-be42-48b0-8bf8-cf237568f9dd",
+      "data": [
+        {
+          "text": "A data structure is a specialized format for organizing and storing data.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425642,
+      "isAuto": false
+    },
+    {
+      "id": "64e614ec-5dcb-4a5a-b2b9-ee134ba08fe0",
+      "data": [
+        {
+          "text": "Data structures provide a means to manage large amounts of data efficiently",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425642,
+      "isAuto": false
+    },
+    {
+      "id": "282c2cce-759b-47b9-a16a-3ce8b73422de",
+      "data": [
+        {
+          "text": "a data structure is a particular way of organizing and storing data in a computer so that it can be accessed and modified efficiently.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425642,
+      "isAuto": false
+    },
+    {
+      "id": "ce884856-f80a-4bac-a347-275dfc0f35d1",
+      "data": [
+        {
+          "text": "A data structure is a particular way of organizing data in a computer so that it can be used effectively. The idea is to reduce the space and time complexities of different tasks.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425642,
+      "isAuto": false
+    },
+    {
+      "id": "d5c8a1ef-c21b-4d30-b282-1fc6d39b7787",
+      "data": [
+        {
+          "text": "Data structure refers to methods of organizing units of data within larger data sets. Achieving and maintaining specific data structures help improve data access and value.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510425642,
+      "isAuto": false
+    },
+    {
+      "id": "2b12913e-d7c4-4d3b-80d0-050d238693d5",
+      "data": [
+        {
+          "text": "A data structure is a way of organizing data that considers not only the items stored, but also their relationship to each other. ",
+          "userDefined": false
+        },
+        {
+          "text": "Advance",
+          "alias": "geo-city",
+          "meta": "@sys.geo-city",
+          "userDefined": false
+        },
+        {
+          "text": " knowledge about the relationship between data items allows designing of efficient algorithms for the manipulation of data.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510425642,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

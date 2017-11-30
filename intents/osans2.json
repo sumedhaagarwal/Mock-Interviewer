@@ -1,0 +1,192 @@
+{
+  "id": "1e61d46b-6005-4113-96d2-50435a1f97db",
+  "name": "osans2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "76a28de0-7efb-4b25-9139-04d0220e5f6c",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "osans2"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510431354169,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "b5aa9cee-abc6-490c-8672-6a54498144f0",
+      "data": [
+        {
+          "text": "A process is an instance of a program that can be multiple and running the same application.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422130,
+      "isAuto": false
+    },
+    {
+      "id": "0de90ea0-2a96-4118-a90f-e295084e8844",
+      "data": [
+        {
+          "text": "A computer program is a passive collection of instructions, while a process is the actual execution of those instructions.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422130,
+      "isAuto": false
+    },
+    {
+      "id": "b264756f-12c1-4300-b5f0-360f8f6c2d10",
+      "data": [
+        {
+          "text": "a process is an instance of a computer program that is being executed. It contains the program code and its current activity.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422130,
+      "isAuto": false
+    },
+    {
+      "id": "2e27b1ae-1300-42ae-8cbd-1029a00e5587",
+      "data": [
+        {
+          "text": "The process is the OS's abstraction for execution",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422130,
+      "isAuto": false
+    },
+    {
+      "id": "9b913d71-4034-4781-aa33-9fcbe3d540bc",
+      "data": [
+        {
+          "text": "A process invokes or initiates a program.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422130,
+      "isAuto": false
+    },
+    {
+      "id": "dafb073b-612d-45dc-a1d0-7ef9ff2fb664",
+      "data": [
+        {
+          "text": "When a program is loaded into the memory and it becomes a process, it can be divided into ",
+          "userDefined": false
+        },
+        {
+          "text": "four",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " sections ─ stack, heap, text and data.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "updated": 1510422130,
+      "isAuto": false
+    },
+    {
+      "id": "37a51e11-e98b-4ae9-837f-173c25a710e0",
+      "data": [
+        {
+          "text": "When we write our computer programs in a text file and execute it, it becomes a process which performs all the tasks mentioned in the program",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510422130,
+      "isAuto": false
+    },
+    {
+      "id": "b1f875a2-e240-40d4-b88f-9f804aaf5a32",
+      "data": [
+        {
+          "text": "A process is defined as an entity which represents the basic unit of work to be implemented in the system.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1510422130,
+      "isAuto": false
+    },
+    {
+      "id": "5cb2e0e4-e3cb-4f8b-928d-c5e3f8b312c1",
+      "data": [
+        {
+          "text": "A process is basically a program in execution and its execution must progress in a sequential fashion.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422130,
+      "isAuto": false
+    },
+    {
+      "id": "4a79383c-5450-4755-b6fe-2032967e7d46",
+      "data": [
+        {
+          "text": "A process is an 'active' entity as opposed to program which is considered to be a 'passive' entity.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422130,
+      "isAuto": false
+    },
+    {
+      "id": "e2cb5a73-b086-45ce-835a-df73f766313a",
+      "data": [
+        {
+          "text": "A process is an instance of program in execution.",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1510422130,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}
