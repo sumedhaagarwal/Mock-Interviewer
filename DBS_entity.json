@@ -1,0 +1,268 @@
+{
+  "id": "2a67503b-701a-45c7-8d1f-3b57c8b0e962",
+  "name": "DBS_entity",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Database",
+      "synonyms": [
+        "Database"
+      ]
+    },
+    {
+      "value": "relation",
+      "synonyms": [
+        "relation",
+        "database tables"
+      ]
+    },
+    {
+      "value": "relational",
+      "synonyms": [
+        "relational"
+      ]
+    },
+    {
+      "value": "attribute",
+      "synonyms": [
+        "attribute",
+        "fields",
+        "column"
+      ]
+    },
+    {
+      "value": "unique",
+      "synonyms": [
+        "distinct",
+        "unique"
+      ]
+    },
+    {
+      "value": "model",
+      "synonyms": [
+        "model",
+        "schema",
+        "structure of database"
+      ]
+    },
+    {
+      "value": "organization",
+      "synonyms": [
+        "organization",
+        "management"
+      ]
+    },
+    {
+      "value": "variable",
+      "synonyms": [
+        "variable"
+      ]
+    },
+    {
+      "value": "dependent",
+      "synonyms": [
+        "dependent",
+        "not independent"
+      ]
+    },
+    {
+      "value": "tuples",
+      "synonyms": [
+        "tuples",
+        "row entries",
+        "records"
+      ]
+    },
+    {
+      "value": "candidate key",
+      "synonyms": [
+        "candidate key",
+        "alternate key"
+      ]
+    },
+    {
+      "value": "key",
+      "synonyms": [
+        "key"
+      ]
+    },
+    {
+      "value": "primary key",
+      "synonyms": [
+        "primary key",
+        "uniquely identifies entries",
+        "uniquely identifies rows"
+      ]
+    },
+    {
+      "value": "super key",
+      "synonyms": [
+        "super key",
+        "superset of candidate keys",
+        "set of keys that uniquely identifies tuples",
+        "combination of fields by which the rows are uniquely identified"
+      ]
+    },
+    {
+      "value": "candidate key",
+      "synonyms": [
+        "candidate key",
+        "minimal super key",
+        "secondary key"
+      ]
+    },
+    {
+      "value": "rows",
+      "synonyms": [
+        "rows",
+        "records",
+        "tuples"
+      ]
+    },
+    {
+      "value": "relational database management system",
+      "synonyms": [
+        "relational database management system",
+        "RDBMS",
+        "DBMS based on the relational model"
+      ]
+    },
+    {
+      "value": "database management system",
+      "synonyms": [
+        "database management system",
+        "DBMS"
+      ]
+    },
+    {
+      "value": "Database system",
+      "synonyms": [
+        "Database system",
+        "DBS"
+      ]
+    },
+    {
+      "value": "composite key",
+      "synonyms": [
+        "composite key",
+        "combination of two or more attributes"
+      ]
+    },
+    {
+      "value": "foreign key",
+      "synonyms": [
+        "foreign key"
+      ]
+    },
+    {
+      "value": "structured query language",
+      "synonyms": [
+        "structured query language",
+        "SQL"
+      ]
+    },
+    {
+      "value": "query",
+      "synonyms": [
+        "query",
+        "enquiry"
+      ]
+    },
+    {
+      "value": "Knowledge base",
+      "synonyms": [
+        "Knowledge base",
+        "KB"
+      ]
+    },
+    {
+      "value": "null",
+      "synonyms": [
+        "null",
+        "unkown",
+        "empty",
+        "invalid"
+      ]
+    },
+    {
+      "value": "NoSQL",
+      "synonyms": [
+        "NoSQL",
+        "not relational in nature"
+      ]
+    },
+    {
+      "value": "metadata",
+      "synonyms": [
+        "metadata",
+        "data about data"
+      ]
+    },
+    {
+      "value": "consistency",
+      "synonyms": [
+        "consistency",
+        "integrity is satisfied",
+        "integrity is maintained"
+      ]
+    },
+    {
+      "value": "redundancy",
+      "synonyms": [
+        "redundancy",
+        "copies are present",
+        "multiple entries",
+        "multiple values"
+      ]
+    },
+    {
+      "value": "DDL",
+      "synonyms": [
+        "DDL",
+        "data definition language"
+      ]
+    },
+    {
+      "value": "DML",
+      "synonyms": [
+        "DML",
+        "data modification language"
+      ]
+    },
+    {
+      "value": "VDL",
+      "synonyms": [
+        "VDL",
+        "view definition language"
+      ]
+    },
+    {
+      "value": "view",
+      "synonyms": [
+        "view",
+        "virtual table"
+      ]
+    },
+    {
+      "value": "data type",
+      "synonyms": [
+        "data type",
+        "attribute type"
+      ]
+    },
+    {
+      "value": "result set",
+      "synonyms": [
+        "result set"
+      ]
+    },
+    {
+      "value": "normalization",
+      "synonyms": [
+        "normalization"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

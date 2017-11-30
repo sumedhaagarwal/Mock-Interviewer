@@ -1,0 +1,191 @@
+{
+  "id": "d02d17c1-4d76-4840-b9c4-5359333626be",
+  "name": "DS_entity",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "data",
+      "synonyms": [
+        "data",
+        "information"
+      ]
+    },
+    {
+      "value": "acyclic directed graph",
+      "synonyms": [
+        "acyclic directed graph",
+        "directed acyclic graph",
+        "DAG"
+      ]
+    },
+    {
+      "value": "heap sort",
+      "synonyms": [
+        "heap sort",
+        "hipify",
+        "heapification"
+      ]
+    },
+    {
+      "value": "Huffman coding",
+      "synonyms": [
+        "Huffman coding",
+        "lossless data compression algorithm"
+      ]
+    },
+    {
+      "value": "sort",
+      "synonyms": [
+        "sort",
+        "arranging"
+      ]
+    },
+    {
+      "value": "algorithm",
+      "synonyms": [
+        "algorithm",
+        "pseudo code"
+      ]
+    },
+    {
+      "value": "ANSI",
+      "synonyms": [
+        "ANSI",
+        "American National Standards Institute"
+      ]
+    },
+    {
+      "value": "array",
+      "synonyms": [
+        "array",
+        "collection of homogeneous entities"
+      ]
+    },
+    {
+      "value": "data structure",
+      "synonyms": [
+        "data structure"
+      ]
+    },
+    {
+      "value": "tree",
+      "synonyms": [
+        "tree",
+        "acyclic connected graph"
+      ]
+    },
+    {
+      "value": "AVL tree",
+      "synonyms": [
+        "AVL tree",
+        "balanced binary search tree"
+      ]
+    },
+    {
+      "value": "binary search tree",
+      "synonyms": [
+        "binary search tree",
+        "BST"
+      ]
+    },
+    {
+      "value": "stack",
+      "synonyms": [
+        "stack",
+        "LIFO structure",
+        "FILO structure",
+        "last in first out structure",
+        "first in last out structure"
+      ]
+    },
+    {
+      "value": "queue",
+      "synonyms": [
+        "queue",
+        "FIFO structure",
+        "first in first out structure"
+      ]
+    },
+    {
+      "value": "binary tree",
+      "synonyms": [
+        "binary tree"
+      ]
+    },
+    {
+      "value": "bfs",
+      "synonyms": [
+        "bfs",
+        "breadth first search"
+      ]
+    },
+    {
+      "value": "dfs",
+      "synonyms": [
+        "dfs",
+        "depth first search"
+      ]
+    },
+    {
+      "value": "cycle",
+      "synonyms": [
+        "cycle"
+      ]
+    },
+    {
+      "value": "path",
+      "synonyms": [
+        "path"
+      ]
+    },
+    {
+      "value": "circuit",
+      "synonyms": [
+        "circuit"
+      ]
+    },
+    {
+      "value": "trail",
+      "synonyms": [
+        "trail"
+      ]
+    },
+    {
+      "value": "hashing",
+      "synonyms": [
+        "hashing",
+        "mapping"
+      ]
+    },
+    {
+      "value": "hash function",
+      "synonyms": [
+        "hash function",
+        "map function"
+      ]
+    },
+    {
+      "value": "heap",
+      "synonyms": [
+        "heap",
+        "priority queue"
+      ]
+    },
+    {
+      "value": "linked lists",
+      "synonyms": [
+        "linked lists",
+        "an ordered set of data elements, each containing a link to its successor and sometimes its predecessor"
+      ]
+    },
+    {
+      "value": "recursion",
+      "synonyms": [
+        "recursion",
+        "recursive function"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

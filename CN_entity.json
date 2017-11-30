@@ -1,0 +1,476 @@
+{
+  "id": "4555c9ba-97ed-442c-b27d-b33a7011ec8f",
+  "name": "CN_entity",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "network",
+      "synonyms": [
+        "network",
+        "computer network",
+        "data network"
+      ]
+    },
+    {
+      "value": "Access method",
+      "synonyms": [
+        "Access method"
+      ]
+    },
+    {
+      "value": "Accuracy",
+      "synonyms": [
+        "Accuracy",
+        "quality of the input",
+        "the degree to which the result of a measurement, calculation, or specification conforms to the correct value or a standard",
+        "exactness"
+      ]
+    },
+    {
+      "value": "Acknowledgment",
+      "synonyms": [
+        "Acknowledgment",
+        "ACK",
+        "receipt of response"
+      ]
+    },
+    {
+      "value": "Address Mapping",
+      "synonyms": [
+        "Address Mapping"
+      ]
+    },
+    {
+      "value": "Address Mask",
+      "synonyms": [
+        "Address Mask",
+        "subnet mask"
+      ]
+    },
+    {
+      "value": "Address Resolution",
+      "synonyms": [
+        "Address Resolution",
+        "process of acquiring a physical address from a machine or virtual address that a network node or computer peripheral has sent",
+        "name resolution"
+      ]
+    },
+    {
+      "value": "ipv4",
+      "synonyms": [
+        "ipv4",
+        "internet protocol version 4",
+        "IP version 4"
+      ]
+    },
+    {
+      "value": "ipv6",
+      "synonyms": [
+        "ipv6",
+        "internet protocol version 4",
+        "IP version 4"
+      ]
+    },
+    {
+      "value": "Protocol",
+      "synonyms": [
+        "Protocol",
+        "system of rules",
+        "set of guidelines"
+      ]
+    },
+    {
+      "value": "Adjacent Nodes",
+      "synonyms": [
+        "Adjacent Nodes",
+        "nodes connected by an edge in a graph"
+      ]
+    },
+    {
+      "value": "Administrative Distance",
+      "synonyms": [
+        "Administrative Distance",
+        "best path when there are two or more different routes to the same destination from two different routing protocols"
+      ]
+    },
+    {
+      "value": "Admission Control",
+      "synonyms": [
+        "Admission Control",
+        "validation process in communication systems where a check is performed before a connection is established to see if current resources are sufficient for the proposed connection"
+      ]
+    },
+    {
+      "value": "Application Layer",
+      "synonyms": [
+        "Application Layer"
+      ]
+    },
+    {
+      "value": "ARPANET",
+      "synonyms": [
+        "ARPANET",
+        "Advanced Research Projects Agency Network"
+      ]
+    },
+    {
+      "value": "piconet",
+      "synonyms": [
+        "piconet",
+        "network of devices connected using Bluetooth technolog"
+      ]
+    },
+    {
+      "value": "bluetooth",
+      "synonyms": [
+        "bluetooth",
+        "a wireless technology standard for exchanging data over short distances"
+      ]
+    },
+    {
+      "value": "Asynchronous",
+      "synonyms": [
+        "Asynchronous",
+        "transmission at a different clock rate",
+        "having each operation started only after the preceding operation is completed",
+        "irregular intervals"
+      ]
+    },
+    {
+      "value": "synchronous",
+      "synonyms": [
+        "synchronous",
+        "regular intervals"
+      ]
+    },
+    {
+      "value": "Autonomous System",
+      "synonyms": [
+        "Autonomous System",
+        "a collection of connected Internet Protocol routing prefixes under the control of one or more network operators on behalf of a single administrative entity or domain that presents a common, clearly defined routing policy to the Internet",
+        "AS"
+      ]
+    },
+    {
+      "value": "Bellman-Ford Routing Algorithm",
+      "synonyms": [
+        "Bellman-Ford Routing Algorithm"
+      ]
+    },
+    {
+      "value": "Dijkstras Routing algorithm",
+      "synonyms": [
+        "Dijkstras Routing algorithm"
+      ]
+    },
+    {
+      "value": "Broadcast",
+      "synonyms": [
+        "Broadcast",
+        "simultaneous transmission of the same message to multiple recipients",
+        "data packet is received by all network devices"
+      ]
+    },
+    {
+      "value": "Broadband",
+      "synonyms": [
+        "Broadband",
+        "data transmission in which a single medium can carry several channels at once"
+      ]
+    },
+    {
+      "value": "Bus Topology",
+      "synonyms": [
+        "Bus Topology"
+      ]
+    },
+    {
+      "value": "topology",
+      "synonyms": [
+        "topology",
+        "network layout"
+      ]
+    },
+    {
+      "value": "star topology",
+      "synonyms": [
+        "star topology"
+      ]
+    },
+    {
+      "value": "ring topology",
+      "synonyms": [
+        "ring topology"
+      ]
+    },
+    {
+      "value": "Circuit Switching",
+      "synonyms": [
+        "Circuit Switching"
+      ]
+    },
+    {
+      "value": "packet switching",
+      "synonyms": [
+        "packet switching"
+      ]
+    },
+    {
+      "value": "data-link layer",
+      "synonyms": [
+        "data-link layer",
+        "data  link layer"
+      ]
+    },
+    {
+      "value": "Data Flow Control Layer",
+      "synonyms": [
+        "Data Flow Control Layer"
+      ]
+    },
+    {
+      "value": "Datagram",
+      "synonyms": [
+        "Datagram",
+        "basic transfer unit"
+      ]
+    },
+    {
+      "value": "Data Link",
+      "synonyms": [
+        "Data Link"
+      ]
+    },
+    {
+      "value": "Decryption",
+      "synonyms": [
+        "Decryption"
+      ]
+    },
+    {
+      "value": "encryption",
+      "synonyms": [
+        "encryption"
+      ]
+    },
+    {
+      "value": "transport layer",
+      "synonyms": [
+        "transport layer"
+      ]
+    },
+    {
+      "value": "router",
+      "synonyms": [
+        "router"
+      ]
+    },
+    {
+      "value": "switch",
+      "synonyms": [
+        "switch"
+      ]
+    },
+    {
+      "value": "hub",
+      "synonyms": [
+        "hub",
+        "multiport repeater"
+      ]
+    },
+    {
+      "value": "internetwork",
+      "synonyms": [
+        "internetwork"
+      ]
+    },
+    {
+      "value": "intranetwork",
+      "synonyms": [
+        "intranetwork"
+      ]
+    },
+    {
+      "value": "modulation",
+      "synonyms": [
+        "modulation"
+      ]
+    },
+    {
+      "value": "demodulation",
+      "synonyms": [
+        "demodulation"
+      ]
+    },
+    {
+      "value": "checksum",
+      "synonyms": [
+        "checksum"
+      ]
+    },
+    {
+      "value": "CRC",
+      "synonyms": [
+        "CRC",
+        "cyclic redundancy check"
+      ]
+    },
+    {
+      "value": "noise",
+      "synonyms": [
+        "noise",
+        "unwanted electrical or electromagnetic energy that degrades the quality of signals and data"
+      ]
+    },
+    {
+      "value": "unicast",
+      "synonyms": [
+        "unicast",
+        "communication between a single sender and a single receiver over a network"
+      ]
+    },
+    {
+      "value": "multicast",
+      "synonyms": [
+        "multicast"
+      ]
+    },
+    {
+      "value": "TCP",
+      "synonyms": [
+        "TCP",
+        "transfer control protocol"
+      ]
+    },
+    {
+      "value": "IP",
+      "synonyms": [
+        "IP",
+        "internet protocol"
+      ]
+    },
+    {
+      "value": "UDP",
+      "synonyms": [
+        "UDP",
+        "User Datagram Protocol"
+      ]
+    },
+    {
+      "value": "FCP",
+      "synonyms": [
+        "FCP",
+        "file control protocol"
+      ]
+    },
+    {
+      "value": "SMTP",
+      "synonyms": [
+        "SMTP",
+        "simple mail transfer protocol"
+      ]
+    },
+    {
+      "value": "traffic",
+      "synonyms": [
+        "traffic",
+        "amount of data moving across a network at a given point of time"
+      ]
+    },
+    {
+      "value": "ARP",
+      "synonyms": [
+        "adress resolution protocol"
+      ]
+    },
+    {
+      "value": "OSI",
+      "synonyms": [
+        "OSI",
+        "Open Systems Interconnection"
+      ]
+    },
+    {
+      "value": "routing table",
+      "synonyms": [
+        "routing table",
+        "routing information base"
+      ]
+    },
+    {
+      "value": "LAN",
+      "synonyms": [
+        "LAN",
+        "local access network"
+      ]
+    },
+    {
+      "value": "WAN",
+      "synonyms": [
+        "WAN",
+        "wide access network"
+      ]
+    },
+    {
+      "value": "gateway",
+      "synonyms": [
+        "gateway",
+        "network node equipped for interfacing with another network that uses different protocols"
+      ]
+    },
+    {
+      "value": "port",
+      "synonyms": [
+        "port"
+      ]
+    },
+    {
+      "value": "baseband",
+      "synonyms": [
+        "baseband"
+      ]
+    },
+    {
+      "value": "signal",
+      "synonyms": [
+        "signal"
+      ]
+    },
+    {
+      "value": "MAC",
+      "synonyms": [
+        "MAC",
+        "media access control address"
+      ]
+    },
+    {
+      "value": "mesh topology",
+      "synonyms": [
+        "mesh topology"
+      ]
+    },
+    {
+      "value": "multiplexing",
+      "synonyms": [
+        "multiplexing"
+      ]
+    },
+    {
+      "value": "demultiplexing",
+      "synonyms": [
+        "demultiplexing"
+      ]
+    },
+    {
+      "value": "wifi",
+      "synonyms": [
+        "wifi",
+        "Wi-Fi",
+        "WiFi",
+        "wireless fidelity"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

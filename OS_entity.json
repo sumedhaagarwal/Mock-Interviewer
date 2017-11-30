@@ -1,0 +1,443 @@
+{
+  "id": "58468e7f-6e8c-47a2-8404-f737e3695fb3",
+  "name": "OS_entity",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "deadlock",
+      "synonyms": [
+        "deadlock",
+        "two computer programs each holding a resource and waiting to acquire a resource held by another process in the set",
+        "a state in which each process is waiting for some other process to take action, such as sending a message or more commonly releasing a lock",
+        "waiting for an event which is never going to happen"
+      ]
+    },
+    {
+      "value": "thread",
+      "synonyms": [
+        "thread",
+        "smallest sequence of programmed instructions that can be managed independently",
+        "simplest process"
+      ]
+    },
+    {
+      "value": "program",
+      "synonyms": [
+        "program",
+        "application",
+        "series of instructions to perform a particulat task"
+      ]
+    },
+    {
+      "value": "hardware",
+      "synonyms": [
+        "hardware",
+        "physical parts",
+        "physical components",
+        "tangible parts",
+        "tangible components"
+      ]
+    },
+    {
+      "value": "software",
+      "synonyms": [
+        "software",
+        "Computer software",
+        "the programs and other operating information used by a computer",
+        "instructions and programs used to run a computer"
+      ]
+    },
+    {
+      "value": "disk storage",
+      "synonyms": [
+        "disk storage",
+        "disk drive storage"
+      ]
+    },
+    {
+      "value": "context switch",
+      "synonyms": [
+        "context switch",
+        "process switch",
+        "task switch"
+      ]
+    },
+    {
+      "value": "kernel",
+      "synonyms": [
+        "kernel",
+        "core of a computer's operating system",
+        "central part of an operating system",
+        "central module of an operating system"
+      ]
+    },
+    {
+      "value": "memory",
+      "synonyms": [
+        "memory"
+      ]
+    },
+    {
+      "value": "operating system",
+      "synonyms": [
+        "OS"
+      ]
+    },
+    {
+      "value": "RAM",
+      "synonyms": [
+        "RAM",
+        "random access memory",
+        "stores data and machine code currently being used",
+        "main memory"
+      ]
+    },
+    {
+      "value": "Process Control Block",
+      "synonyms": [
+        "Process Control Block",
+        "PCB",
+        "Task Controlling Block",
+        "Entry of the Process Table",
+        "Task Struct",
+        "Switchframe",
+        "the manifestation of a process in an operating system"
+      ]
+    },
+    {
+      "value": "CPU",
+      "synonyms": [
+        "CPU",
+        "central processing unit",
+        "processor"
+      ]
+    },
+    {
+      "value": "interrupt",
+      "synonyms": [
+        "interrupt",
+        "event that needs immediate attention"
+      ]
+    },
+    {
+      "value": "interprocess communication",
+      "synonyms": [
+        "interprocess communication"
+      ]
+    },
+    {
+      "value": "system calls",
+      "synonyms": [
+        "system calls"
+      ]
+    },
+    {
+      "value": "computer session",
+      "synonyms": [
+        "computer session"
+      ]
+    },
+    {
+      "value": "execution",
+      "synonyms": [
+        "execution",
+        "to execute",
+        "to execute"
+      ]
+    },
+    {
+      "value": "Process",
+      "synonyms": [
+        "Process",
+        "task",
+        "progam in execution"
+      ]
+    },
+    {
+      "value": "processor",
+      "synonyms": [
+        "processor",
+        "CPU"
+      ]
+    },
+    {
+      "value": "computer",
+      "synonyms": [
+        "computer",
+        "system"
+      ]
+    },
+    {
+      "value": "resource",
+      "synonyms": [
+        "resource",
+        "any item that can be used"
+      ]
+    },
+    {
+      "value": "page",
+      "synonyms": [
+        "page"
+      ]
+    },
+    {
+      "value": "address space",
+      "synonyms": [
+        "address space"
+      ]
+    },
+    {
+      "value": "time-sharing",
+      "synonyms": [
+        "time-sharing",
+        "time sharing"
+      ]
+    },
+    {
+      "value": "memory management",
+      "synonyms": [
+        "memory management"
+      ]
+    },
+    {
+      "value": "disk management",
+      "synonyms": [
+        "disk management"
+      ]
+    },
+    {
+      "value": "task management",
+      "synonyms": [
+        "task management"
+      ]
+    },
+    {
+      "value": "file management",
+      "synonyms": [
+        "file management",
+        "file system"
+      ]
+    },
+    {
+      "value": "I/O management",
+      "synonyms": [
+        "I/O management"
+      ]
+    },
+    {
+      "value": "boot",
+      "synonyms": [
+        "boot",
+        "load the OS into the computer's memory"
+      ]
+    },
+    {
+      "value": "secondary memory",
+      "synonyms": [
+        "secondary memory",
+        "hard disk storage"
+      ]
+    },
+    {
+      "value": "physical memory",
+      "synonyms": [
+        "physical memory",
+        "primary memory",
+        "main memory",
+        "RAM"
+      ]
+    },
+    {
+      "value": "cache",
+      "synonyms": [
+        "cache"
+      ]
+    },
+    {
+      "value": "virtual memory",
+      "synonyms": [
+        "virtual memory",
+        "temporary memory",
+        "volatile memory"
+      ]
+    },
+    {
+      "value": "CPU's register",
+      "synonyms": [
+        "CPU's register",
+        "CPU register"
+      ]
+    },
+    {
+      "value": "program counter",
+      "synonyms": [
+        "program counter",
+        "pointer to the address of the next instruction"
+      ]
+    },
+    {
+      "value": "page tables",
+      "synonyms": [
+        "page tables"
+      ]
+    },
+    {
+      "value": "swap space",
+      "synonyms": [
+        "swap space"
+      ]
+    },
+    {
+      "value": "boot loader",
+      "synonyms": [
+        "boot loader",
+        "boot manager"
+      ]
+    },
+    {
+      "value": "command",
+      "synonyms": [
+        "command",
+        "order from the user"
+      ]
+    },
+    {
+      "value": "contiguous",
+      "synonyms": [
+        "contiguous",
+        "continuous",
+        "adjacent"
+      ]
+    },
+    {
+      "value": "core dump",
+      "synonyms": [
+        "core dump",
+        "copying contents of RAM to a permanent medium",
+        "copying contents of RAM into hard disk"
+      ]
+    },
+    {
+      "value": "crash",
+      "synonyms": [
+        "crash",
+        "failure",
+        "sudden failure"
+      ]
+    },
+    {
+      "value": "file",
+      "synonyms": [
+        "file",
+        "collection of records"
+      ]
+    },
+    {
+      "value": "file system",
+      "synonyms": [
+        "file system",
+        "management of storage and retreival or files",
+        "file management"
+      ]
+    },
+    {
+      "value": "fragmentation",
+      "synonyms": [
+        "fragmentation",
+        "storage in chunks",
+        "not continuous"
+      ]
+    },
+    {
+      "value": "chunks of memory",
+      "synonyms": [
+        "pieces of memory"
+      ]
+    },
+    {
+      "value": "frame work",
+      "synonyms": [
+        "frame work",
+        "framework",
+        "support",
+        "guide"
+      ]
+    },
+    {
+      "value": "Linux",
+      "synonyms": [
+        "Linux"
+      ]
+    },
+    {
+      "value": "hard drive",
+      "synonyms": [
+        "hard drive",
+        "hard disk"
+      ]
+    },
+    {
+      "value": "bytes",
+      "synonyms": [
+        "bytes",
+        "eight bits"
+      ]
+    },
+    {
+      "value": "bits",
+      "synonyms": [
+        "bits"
+      ]
+    },
+    {
+      "value": "ROM",
+      "synonyms": [
+        "ROM",
+        "read only memory"
+      ]
+    },
+    {
+      "value": "multithread",
+      "synonyms": [
+        "multithread",
+        "multiple thread"
+      ]
+    },
+    {
+      "value": "DRAM",
+      "synonyms": [
+        "DRAM",
+        "Dynamic RAM"
+      ]
+    },
+    {
+      "value": "SRAM",
+      "synonyms": [
+        "SRAM",
+        "static RAM"
+      ]
+    },
+    {
+      "value": "heap",
+      "synonyms": [
+        "heap"
+      ]
+    },
+    {
+      "value": "stack",
+      "synonyms": [
+        "stack",
+        "process stack"
+      ]
+    },
+    {
+      "value": "TLB",
+      "synonyms": [
+        "TLB",
+        "translation look aside buffer"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

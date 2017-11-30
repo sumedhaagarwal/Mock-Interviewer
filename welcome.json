@@ -1,0 +1,16 @@
+{
+  "id": "c3e0872a-272c-43bb-b65c-8db22fe5e861",
+  "name": "welcome",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Hello",
+      "synonyms": [
+        "Hello",
+        "Hi"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}
